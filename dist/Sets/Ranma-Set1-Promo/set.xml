@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Ranma-Set1-Promo" id="248531fd-7fb1-51e6-bab9-3d47150cded1" gameId="05ce00ff-544c-5fc1-81ca-387b109116d4" gameVersion="0.2.1.0" version="1.0">
+  <cards>
+    <card id="ee81ba17-e79a-52d4-adfd-c02e7ada7626" name="Water Bucket Attack [Shampoo]">
+      <property name="ImageFile" value="PR001" />
+      <property name="Number" value="001" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="" />
+    </card>
+    <card id="00f41b84-51d9-5ca9-8dbe-488167f1caa2" name="Water Bucket Attack [ Mousse]">
+      <property name="ImageFile" value="PR002" />
+      <property name="Number" value="002" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="" />
+    </card>
+    <card id="05ea5cae-5d90-5d94-b377-70b180e2873f" name="Too Cute (Cat)">
+      <property name="ImageFile" value="PR003" />
+      <property name="Number" value="178a1" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Block" />
+      <property name="Type" value="Block" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="" />
+    </card>
+    <card id="1bd0abdb-3ad5-53d7-8183-159ce5de5cbe" name="Too Cute (Shampoo)">
+      <property name="ImageFile" value="PR004" />
+      <property name="Number" value="003" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Block" />
+      <property name="Type" value="Block" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="" />
+    </card>
+  </cards>
+</set>

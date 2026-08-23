@@ -1,0 +1,18 @@
+{
+  "guid": "05ce00ff-544c-5fc1-81ca-387b109116d4",
+  "name": "Ranma Card Game",
+  "version": "0.2.1.0",
+  "versionDate": "2026-08-23T16:55:00Z",
+  "description": "OCTGN definition for the Ranma Card Game beta, with stable card identifiers and two-card Character section.",
+  "authors": [
+    "JoePerry"
+  ],
+  "minimumOctgnVersion": "3.1.240.0",
+  "gamePath": "dist",
+  "tags": [
+    "card game",
+    "ranma"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/JoePerry/Ranma/main/dist/Resources/cardback.jpg",
+  "changelog": "Add Character and Main Deck sections, Ranma card back, phases, piles, and basic manual controls."
+}
