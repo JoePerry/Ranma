@@ -1,0 +1,1421 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Ranma-Set1" id="4128c18b-27c2-5569-9f84-5c5b0ce9f7cb" gameId="05ce00ff-544c-5fc1-81ca-387b109116d4" gameVersion="0.2.1.0" version="1.0">
+  <cards>
+    <card id="b3033127-5ed0-5f4c-9963-803cdb960da4" name="Akane ">
+      <property name="ImageFile" value="RA001" />
+      <property name="Number" value="001" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Main Character" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Akane can start with a Technique in play.  Once per turn, Akane may discard a card from hand to draw a card as an action." />
+    </card>
+    <card id="3b2e2521-bda0-52d9-96a6-f6ffc8312c9c" name="Kodachi &quot;The Black Rose&quot; Kuno">
+      <property name="ImageFile" value="RA002" />
+      <property name="Number" value="002" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Main Character" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Kodachi can only use weapon attacks. t Your Weapons link to WeaponstOnce per turn,  if you hit with a combo of 2 or more discard the top card of your deck, if it is a weapon draw it." />
+    </card>
+    <card id="9455389e-bbc1-589f-9986-90151471f428" name="P-Chan">
+      <property name="ImageFile" value="RA003" />
+      <property name="Number" value="003" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Main Character" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="P-Chan can only use Bite attacks. ♦ All of your other attack cards that are not named cards can only be used as defense cards of the same type. " />
+    </card>
+    <card id="f433ba8a-7c28-580c-b587-0fbb1fe2a9a7" name="Ranma - Guy">
+      <property name="ImageFile" value="RA004" />
+      <property name="Number" value="004" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Main Character" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="While Ranma is your active fighter your punches do +1 damage.  Once per turn, Ranma can put one Event from his discard pile into his hand. Events played by Ranma are removed from the game after use." />
+    </card>
+    <card id="43384bfa-6a31-5d26-98df-ee011a1764ae" name="Ranma - Girl">
+      <property name="ImageFile" value="RA005" />
+      <property name="Number" value="005" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Main Character" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Your attacks do +1 damage for each Event you have set in play. You may only have 4 Events in play at a time. Events cost  -1 to flip." />
+    </card>
+    <card id="b39548a0-7ddd-50f6-ae0f-16bc84291111" name="Ryoga">
+      <property name="ImageFile" value="RA006" />
+      <property name="Number" value="006" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Main Character" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="excellent martial arts, cannot play locations or battlegrounds (cause he is lost)" />
+    </card>
+    <card id="0e6b7b46-eaeb-503e-8829-5a26af578ee7" name="Shampoo - Girl">
+      <property name="ImageFile" value="RA007" />
+      <property name="Number" value="007" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Main Character" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="While Shampoo is your active fighter your weapons do +1 damage.  tCards do not remain in play to be used another time." />
+    </card>
+    <card id="6ac0d2f6-a430-5303-8c24-8a021e622332" name="Shampoo - Cat">
+      <property name="ImageFile" value="RA008" />
+      <property name="Number" value="008" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Main Character" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="As an action you can discard a weapon to transform Shampoo, if you do draw a card.  When you play a combo of 3 attacks you may HEAL 1 at the end of the turn." />
+    </card>
+    <card id="7191e38d-bfc3-5b95-9870-a0c301419ac7" name="Tatewaki Kuno">
+      <property name="ImageFile" value="RA009" />
+      <property name="Number" value="009" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Main Character" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Your attacks that link into Weapons also link into Kicks, and vice versa. When you play a combo that includes a Weapon and a Kick you may take the top card of your discard and put it into your energy pile.  Your attack costs cannot be modified." />
+    </card>
+    <card id="93f3bf35-1bb7-5fff-9e2c-bee786327b12" name="Mousse - Guy">
+      <property name="ImageFile" value="RA010" />
+      <property name="Number" value="010" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Main Character" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Once per turn as an attack action, look at the top three cards of your deck, you may play a weapon that cost 2 or less for free.  Put the rest of the cards on the bottom of your deck in any order." />
+    </card>
+    <card id="0bfe5e87-ed8a-5ae9-8959-c2662b89df93" name="Mousse - Duck">
+      <property name="ImageFile" value="RA011" />
+      <property name="Number" value="011" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Main Character" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="When you transform your next attack is a High Weapon Attack that cost 0 and does damage equal to the number of Weapons in your energy pile." />
+    </card>
+    <card id="d6c6361c-656a-5e0d-9965-62382d2090bf" name="Cologne">
+      <property name="ImageFile" value="RA012" />
+      <property name="Number" value="012" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Main Character" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="You may have three Techniques in play at once. Curses you play gain “Remains in play to be used a second time” and cost +1 Energy to perform." />
+    </card>
+    <card id="66b6f6fc-7255-5c3d-a1c9-a39e15736214" name="Akane Tendo">
+      <property name="ImageFile" value="RA013" />
+      <property name="Number" value="013" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Support" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="" />
+      <property name="Text" value="You may discard Akane as a defense action, block that attack and it’s damage is prevented. tWhen Akane is discarded you can choose 2 cards in a discard pile and remove them from the game." />
+    </card>
+    <card id="57ff5164-dddd-5c3a-8988-54984520572e" name="Dr. Tofu">
+      <property name="ImageFile" value="RA014" />
+      <property name="Number" value="014" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Support" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Whenever you Heal you may Heal an additional card. You may discard Dr. Tofu as an action to HEAL 5." />
+    </card>
+    <card id="ac621312-796a-5b97-9144-6d8d7f3d35a3" name="Cologne">
+      <property name="ImageFile" value="RA015" />
+      <property name="Number" value="015" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Support" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="3" />
+      <property name="Damage" value="" />
+      <property name="Text" value="When Cologne comes into play search your deck for a Technique, place it into play, shuffle your deck after." />
+    </card>
+    <card id="4b122f10-dbc6-5f88-ba2a-da7cb61d1e2c" name="Genma">
+      <property name="ImageFile" value="RA016" />
+      <property name="Number" value="016" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Support" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="" />
+      <property name="Text" value="You may discard Genma as an action to transform your character." />
+    </card>
+    <card id="9c902442-47a7-5b16-9e23-5e11646ff345" name="ICHIRO from the Furinkan High School Radio Club">
+      <property name="ImageFile" value="RA017" />
+      <property name="Number" value="017" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Support" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="2" />
+      <property name="Damage" value="" />
+      <property name="Text" value="You may discard Ichiro after a succesful attack.tWhen Ichiro is discarded you may copy the last succesful attack during your next attack phase this set." />
+    </card>
+    <card id="e0b51449-dfe9-5e1c-8ea1-c097b8c23ecf" name="Kasumi Tendo">
+      <property name="ImageFile" value="RA018" />
+      <property name="Number" value="018" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Support" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="2" />
+      <property name="Damage" value="" />
+      <property name="Text" value="You may discard Kasumi to block any attack. Limit one per deck. " />
+    </card>
+    <card id="65e96add-3713-55b6-85ef-393d289ebbf8" name="Nabiki Tendo">
+      <property name="ImageFile" value="RA019" />
+      <property name="Number" value="019" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Support" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Discard Nabiki to pay for an attack. When Nabiki is discarded you can use it as 2 energy.  If you have another Nabiki in your discard pile gain 3 energy instead." />
+    </card>
+    <card id="9fab7a0d-7bcf-58be-85dd-6a1574ad7447" name="Soun Tendo">
+      <property name="ImageFile" value="RA020" />
+      <property name="Number" value="020" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Support" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="" />
+      <property name="Text" value="You may discard Soun Tendo when you enter combat.  When Soun Tendo is discarded draw a card." />
+    </card>
+    <card id="95cff2e3-0d2f-5656-8f08-50c77194d394" name="Shampoo">
+      <property name="ImageFile" value="RA021" />
+      <property name="Number" value="021" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Support" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="" />
+      <property name="Text" value="If you are to discard a card from your hand or your deck you may choose to discard Shampoo instead.  When you discard Shampoo draw a card, draw an additional card if Ranma is in play." />
+    </card>
+    <card id="4aa20971-80e3-53bd-9f1f-0d5080e111fa" name="P-Chan">
+      <property name="ImageFile" value="RA022" />
+      <property name="Number" value="022" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Character" />
+      <property name="Type" value="Support" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Discard P-Chan to discard the location in play. Draw a card, draw an additional card if Akane is your active character." />
+    </card>
+    <card id="bffc4ce8-b447-5e47-a213-18f8cff06217" name="Akane Tendo's Skyward Kick">
+      <property name="ImageFile" value="RA023" />
+      <property name="Number" value="023" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Kick" />
+      <property name="Link" value="Punch" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="Launcher ,This attack does +4 damage if it is the last attack in a combo.  Hit - Search your deck for a location, reveal it and put it into your hand,shuffle your deck after." />
+    </card>
+    <card id="994dc05c-b1d2-57ab-8eff-b2c7d1f7a53c" name="Akane Tendo's  Backhand Slap">
+      <property name="ImageFile" value="RA024" />
+      <property name="Number" value="024" />
+      <property name="Rarity" value="Uncommon" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Punch" />
+      <property name="Link" value="Punch" />
+      <property name="Cost" value="2" />
+      <property name="Damage" value="8" />
+      <property name="Text" value="HIT- This card stays on the table to be played 1 more time this step. Discard this card the 2nd time this attack finishes or when this step ends." />
+    </card>
+    <card id="72920853-b808-532a-bcca-f34302d8a178" name="Akane Tendo's Dashing Punch">
+      <property name="ImageFile" value="RA025" />
+      <property name="Number" value="025" />
+      <property name="Rarity" value="Rare" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Punch" />
+      <property name="Link" value="" />
+      <property name="Cost" value="2" />
+      <property name="Damage" value="8" />
+      <property name="Text" value="HIT - Draw 2 Cards" />
+    </card>
+    <card id="8147cffe-80d1-5538-8ffa-f02522ce09d8" name="Kodachi’s Black Rose Blizzard">
+      <property name="ImageFile" value="RA026" />
+      <property name="Number" value="026" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Weapon" />
+      <property name="Link" value="Weapon" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="3" />
+      <property name="Text" value="This attack also counts as a projectile. HIT - You may end combat after this combo finishes" />
+    </card>
+    <card id="597b842e-9d6c-59a5-bd00-45f42c035753" name="Kodachi's Ribbon Attack">
+      <property name="ImageFile" value="RA027" />
+      <property name="Number" value="027" />
+      <property name="Rarity" value="Uncommon" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Weapon" />
+      <property name="Link" value="Weapon" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="4" />
+      <property name="Text" value="Discard a support character in play. HIT - This card stays on the table to be played 1 more time this step. Discard this card the 2nd time this attack finishes or when this step ends." />
+    </card>
+    <card id="906c6128-e03f-572a-8246-1b07893bc4a7" name="Kodachi's Paralyzing Black Rose Attack">
+      <property name="ImageFile" value="RA028" />
+      <property name="Number" value="028" />
+      <property name="Rarity" value="Rare" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Weapon" />
+      <property name="Link" value="" />
+      <property name="Cost" value="4" />
+      <property name="Damage" value="14" />
+      <property name="Text" value="HIT - You may end combat after this attack finishes." />
+    </card>
+    <card id="12a8fcb7-1960-5e9a-ac0e-480499ea8ba7" name="Ranma's Fierce Punch">
+      <property name="ImageFile" value="RA029" />
+      <property name="Number" value="029" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Punch" />
+      <property name="Link" value="Kick" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="HIT - Search your deck for an event, reveal it and place it in play or choose three events and place them in your discard pile.  Shuffle your deck after." />
+    </card>
+    <card id="9b6e3092-c589-57b9-80a0-64720897d682" name="Ranma's Mocking Split Dodge">
+      <property name="ImageFile" value="RA030" />
+      <property name="Number" value="030" />
+      <property name="Rarity" value="Uncommon" />
+      <property name="Style" value="High Block" />
+      <property name="Type" value="Block" />
+      <property name="Attack-Type" value="-" />
+      <property name="Link" value="-" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="" />
+      <property name="Text" value="If this blocks a kick, for the rest of combat attacks no longer stay on the table to be used this combat." />
+    </card>
+    <card id="158d2db9-bd77-5406-b449-2fce2c2a8c1a" name="Ranma's Aerial Assault">
+      <property name="ImageFile" value="RA031" />
+      <property name="Number" value="031" />
+      <property name="Rarity" value="Rare" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Kick" />
+      <property name="Link" value="High Attack" />
+      <property name="Cost" value="2" />
+      <property name="Damage" value="8" />
+      <property name="Text" value="HIT - Choose and Event in your discard pile and place it into play and set it for free." />
+    </card>
+    <card id="53ab44d9-849b-5c01-b3bd-177006091630" name="Ryoga's Umbrella Block">
+      <property name="ImageFile" value="RA032" />
+      <property name="Number" value="032" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Block" />
+      <property name="Type" value="Block" />
+      <property name="Attack-Type" value="-" />
+      <property name="Link" value="-" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="" />
+      <property name="Text" value="If this blocks a projectile it stays in play to be used another time this combat.  Effects that transform Ryoga do not effect him this combat. Discard at the end of combat." />
+    </card>
+    <card id="94ee2dc0-77c4-5ee2-89cf-9d7f11619bee" name="P-Chan's Bite">
+      <property name="ImageFile" value="RA033" />
+      <property name="Number" value="033" />
+      <property name="Rarity" value="Uncommon" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Bite" />
+      <property name="Link" value="Bite" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="If Akane is in play this attack is unblockable and its damage cannot be prevented or lowered." />
+    </card>
+    <card id="05e8df75-1a13-5b50-bd5a-eec0b53e48ea" name="Ryoga's Lost Attack">
+      <property name="ImageFile" value="RA034" />
+      <property name="Number" value="034" />
+      <property name="Rarity" value="Rare" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Weapon" />
+      <property name="Link" value="" />
+      <property name="Cost" value="4" />
+      <property name="Damage" value="16" />
+      <property name="Text" value=" If you have a Location in play this attack does +4 damage.  HIT- Look at the top 10 cards of your deck, if there is a Location there reveal it and put it into your hand, put the rest at the bottom of your deck in any order. " />
+    </card>
+    <card id="a6fb99f1-d948-5742-b677-d41fb45023f5" name="Shampoo's Xi Fa Xiang Gao">
+      <property name="ImageFile" value="RA035" />
+      <property name="Number" value="035" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Curse" />
+      <property name="Link" value="Weapon" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="4" />
+      <property name="Text" value="HIT - Your opponent loses all character abilities this combat and cannot use character abilities until their next turn." />
+    </card>
+    <card id="297e517e-ca12-5e21-90b9-ba50197567ee" name="Shampoo's Wallbreaker">
+      <property name="ImageFile" value="RA036" />
+      <property name="Number" value="036" />
+      <property name="Rarity" value="Uncommon" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Weapon" />
+      <property name="Link" value="Weapon" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="When you play this attack you may pay one energy, if you do this attack does +2 damage and you may discard a location in play." />
+    </card>
+    <card id="0760f510-0ec5-52be-9a0a-973c48ee55df" name="Shampoo's Mad">
+      <property name="ImageFile" value="RA037" />
+      <property name="Number" value="037" />
+      <property name="Rarity" value="Rare" />
+      <property name="Style" value="Event" />
+      <property name="Type" value="Event" />
+      <property name="Attack-Type" value="-" />
+      <property name="Link" value="-" />
+      <property name="Cost" value="2" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Flip when you attack.  All of Shampoo's attacks link to any attack until end of combat." />
+    </card>
+    <card id="09bbca33-9dc7-592b-a25b-bceb5eb9ab32" name="Tatewaki Kuno Blue Thunder">
+      <property name="ImageFile" value="RA038" />
+      <property name="Number" value="038" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Electric" />
+      <property name="Link" value="Weapon" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="HIT- Weapon attacks you perform do +1 damage this combat." />
+    </card>
+    <card id="0a26b48d-463a-5e3e-8e72-a77ae302ae0b" name="Tatewaki Kuno Forward Slash">
+      <property name="ImageFile" value="RA039" />
+      <property name="Number" value="039" />
+      <property name="Rarity" value="Uncommon" />
+      <property name="Style" value="Low Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Weapon" />
+      <property name="Link" value="Kick" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="4" />
+      <property name="Text" value="HIT - You may pay 1 energy to put the top Kick in your discard pile into your hand." />
+    </card>
+    <card id="3acd4f4b-2ec6-5efd-b25f-ab6a10c89670" name="Tatewaki Kuno Challenging Strike">
+      <property name="ImageFile" value="RA040" />
+      <property name="Number" value="040" />
+      <property name="Rarity" value="Rare" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Weapon" />
+      <property name="Link" value="" />
+      <property name="Cost" value="2" />
+      <property name="Damage" value="8" />
+      <property name="Text" value="If you have more energy than your rival this attack does +4 damage or +4 chipping damage if it is blocked." />
+    </card>
+    <card id="8d6895d8-3a61-5c78-9164-257f6834c5df" name="Mousse Hidden Weapon Grapple">
+      <property name="ImageFile" value="RA041" />
+      <property name="Number" value="041" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Weapon" />
+      <property name="Link" value="Weapon" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="4" />
+      <property name="Text" value="This attack also counts as a Throw.  BLOCKED - Choose a Support your rival controls, you control it until it leaves the arena" />
+    </card>
+    <card id="dd37a714-b2e8-5c9c-a7fc-5c3cd6ae2616" name="Mousse Hidden Bomb Spray">
+      <property name="ImageFile" value="RA042" />
+      <property name="Number" value="042" />
+      <property name="Rarity" value="Uncommon" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Weapon" />
+      <property name="Link" value="Projectile" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="4" />
+      <property name="Text" value="This attack also counts as a Projectile. HIT - Discard a card in your hand, choose a weapon in your energy pile and place it in your hand." />
+    </card>
+    <card id="33f9ebb4-0319-548c-819a-9c4e6af34d95" name="Mousse Hidden Weapons Attack">
+      <property name="ImageFile" value="RA043" />
+      <property name="Number" value="043" />
+      <property name="Rarity" value="Rare" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Weapon" />
+      <property name="Link" value="-" />
+      <property name="Cost" value="4" />
+      <property name="Damage" value="16" />
+      <property name="Text" value="HIT - Look at the top 5 cards of your deck, reveal any Weapon attacks amongst them to your rival.  Do +2 damage for every weapon revealed.  Then put them on the bottom of your deck in any order." />
+    </card>
+    <card id="4d86ce2f-6bac-579c-b7ba-67291b418f42" name="Cologne Elemental Attack">
+      <property name="ImageFile" value="RA044" />
+      <property name="Number" value="044" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Curse" />
+      <property name="Link" value="Projectile" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="HIT- The next attack your rival plays this turn cost +1 energy or discard a card from their hand. " />
+    </card>
+    <card id="342580ff-46b0-5008-81dc-de9c9410257e" name="Cologne Water Vortex">
+      <property name="ImageFile" value="RA045" />
+      <property name="Number" value="045" />
+      <property name="Rarity" value="Uncommon" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Curse" />
+      <property name="Link" value="Weapon" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="5" />
+      <property name="Text" value="HIT - You may pay +1 Energy for this attack to do +4 damage, if you do, end combat." />
+    </card>
+    <card id="f9fdc95d-c08f-5f07-b592-34bcce522345" name="Cologne Elemental Megalodon">
+      <property name="ImageFile" value="RA046" />
+      <property name="Number" value="046" />
+      <property name="Rarity" value="Rare" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Projectile" />
+      <property name="Link" value="" />
+      <property name="Cost" value="4" />
+      <property name="Damage" value="16" />
+      <property name="Text" value="Blocked - This attack does +4 Chipping damage" />
+    </card>
+    <card id="721bc64a-b7bc-5c4d-ac43-09c3cc47ac94" name="Betrayal">
+      <property name="ImageFile" value="RA047" />
+      <property name="Number" value="047" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Event" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Flip at the start of Set. Take control of one of your rival's events until the end of the turn." />
+    </card>
+    <card id="1849572c-a7df-5259-b834-601be45fb88b" name="Busted">
+      <property name="ImageFile" value="RA048" />
+      <property name="Number" value="048" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Event" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Flip when your rival blocks a punch. This attack's chipping gains +X. X = your energy." />
+    </card>
+    <card id="e14b28b0-12a2-5b17-a5a3-97d1bf5e2b6b" name="Cat Fight">
+      <property name="ImageFile" value="RA049" />
+      <property name="Number" value="049" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Event" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Flip when you attack. Draw 2 cards. Remove this card. (*) Limit 1 per deck." />
+    </card>
+    <card id="925539a0-245d-5418-a046-d8ec65c2c007" name="Dirty Tricks">
+      <property name="ImageFile" value="RA050" />
+      <property name="Number" value="050" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Event" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Flip when you attack. Name a block. Your rival cannot play that block this attack." />
+    </card>
+    <card id="1f2a11b0-35f2-5298-9790-4e4e73842c3c" name="Dr's Visit">
+      <property name="ImageFile" value="RA051" />
+      <property name="Number" value="051" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Event" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Flip during your discard step,  HEAL the top 3 cards of your discards, HEAL 3 more if your current location is Dr.  Tofu’s Clinic. Remove this card from the game after use." />
+    </card>
+    <card id="a507c7bc-52c7-5051-89fa-f82b087ab433" name="Launched Skyward">
+      <property name="ImageFile" value="RA052" />
+      <property name="Number" value="052" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Event" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Flip anytime during set, search your deck for a location, place it into play, shuffle your deck after." />
+    </card>
+    <card id="15c217a3-6786-510a-9935-8000a877af77" name="Onsen Cannon">
+      <property name="ImageFile" value="RA053" />
+      <property name="Number" value="053" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Event" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="3" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Flip when entering combat, search your deck for 3 different cards with Launcher. Reveal the chosen cards to your opponent, put them in your hand, shuffle your deck afterward.  Limit 1 per deck." />
+    </card>
+    <card id="ae9df259-a135-534e-9d57-39b47e07a58a" name="Poor Little Guy">
+      <property name="ImageFile" value="RA054" />
+      <property name="Number" value="054" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Event" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="3" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Flip when you take damage or when a rivals effect forces you to discard cards from the top of your deck,  you may HEAL 4 and End Combat. Limit one per deck." />
+    </card>
+    <card id="a7361d16-1b4c-59e4-b16f-9bcb722d8e88" name="Sneak Attack">
+      <property name="ImageFile" value="RA055" />
+      <property name="Number" value="055" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Event" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="2" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Flip when entering combat, look at the top three cards of your deck, choose one card and put the rest on the bottom of your deck in any order.  Draw a card." />
+    </card>
+    <card id="e2089d9a-4681-5919-b843-292ed40bdb57" name="Spiteful Transformation">
+      <property name="ImageFile" value="RA056" />
+      <property name="Number" value="056" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Event" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Flip as an action during combat, transform your character.  Draw a card" />
+    </card>
+    <card id="2a0b38e5-f39a-5884-80e7-65563897f91d" name="Aerial Combo">
+      <property name="ImageFile" value="RA057" />
+      <property name="Number" value="057" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Kick" />
+      <property name="Link" value="Punch" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="4" />
+      <property name="Text" value="HIT- This card stays on the table to be played 1 more time this step. Discard this card the 2nd time this attack finishes or when this step ends," />
+    </card>
+    <card id="30663c11-91bc-56c3-816d-b1743d6adb73" name="Air Kicks">
+      <property name="ImageFile" value="RA058" />
+      <property name="Number" value="058" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Kick" />
+      <property name="Link" value="Projectile" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="4" />
+      <property name="Text" value="HIT - You may put the projectile closest to the bottom of your discard pile on top of your deck." />
+    </card>
+    <card id="c1827cb8-edbf-5432-b0e7-28d0e539d0e7" name="Ankle Biter">
+      <property name="ImageFile" value="RA059" />
+      <property name="Number" value="059" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Low Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Bite" />
+      <property name="Link" value="Punch" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="HIT - Any player with 5 or more energy discards from his energy pile until he has 5 energy." />
+    </card>
+    <card id="b284d55e-88d1-5019-8e30-d45d719ab937" name="Back Breaker">
+      <property name="ImageFile" value="RA060" />
+      <property name="Number" value="060" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Throw" />
+      <property name="Link" value="Punch" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="Your rival's kicks do -1 damage this turn. (*) HIT - Your rival cannot play kicks this turn." />
+    </card>
+    <card id="e3a5fd86-3c01-581e-95d0-4f1c567ba56b" name="Back Handspring">
+      <property name="ImageFile" value="RA061" />
+      <property name="Number" value="061" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Low Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Kick" />
+      <property name="Link" value="Throw" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="4" />
+      <property name="Text" value="HIT - While you have 3 or more throws in your energy pile during this combo, your rival's blocks cost +1 energy." />
+    </card>
+    <card id="c37fabe2-5e53-572d-9764-516733e29790" name="Back Kick">
+      <property name="ImageFile" value="RA062" />
+      <property name="Number" value="062" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Low Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Kick" />
+      <property name="Link" value="Weapon" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="Switch 2 random cards in your rival's hand with the top 2 cards of thier deck." />
+    </card>
+    <card id="05624828-6d73-5e24-810a-5f7fa69792b2" name="Back Stomp">
+      <property name="ImageFile" value="RA063" />
+      <property name="Number" value="063" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Throw" />
+      <property name="Link" value="Punch" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="HIT - Your rival's attacks in his next action do -1 damage." />
+    </card>
+    <card id="8203f1f9-92b4-5b42-a77d-e1e8ef819d1d" name="Back to Back">
+      <property name="ImageFile" value="RA064" />
+      <property name="Number" value="064" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Kick" />
+      <property name="Link" value="Throw" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="HIT - Put the top card of your discard pile at the bottom of your deck." />
+    </card>
+    <card id="9158b997-1a8d-5db4-a720-306f2b445a9a" name="Battle Mastery">
+      <property name="ImageFile" value="RA068" />
+      <property name="Number" value="068" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Weapon" />
+      <property name="Link" value="Kick" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="4" />
+      <property name="Text" value="Choose up to X rival's face-down cards in the arena. Those cards cannot be flipped this turn. X = the number of weapons in your energy pile." />
+    </card>
+    <card id="95d7ec23-394c-54a9-9df2-9105a35a1615" name="Berserk Chop">
+      <property name="ImageFile" value="RA069" />
+      <property name="Number" value="069" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Weapon" />
+      <property name="Link" value="Projectile" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="HIT - Switch up to 3 weapons in your hand with the same number of cards from your energy pile." />
+    </card>
+    <card id="3c4242c4-e0e7-5257-9fc2-b2d0199ac34d" name="Bitter Blade">
+      <property name="ImageFile" value="RA070" />
+      <property name="Number" value="070" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Weapon" />
+      <property name="Link" value="Punch" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="You may set each event damaged by this attack." />
+    </card>
+    <card id="89a62a26-eedb-51fc-bec0-d70b64ca7c21" name="Blade Kick">
+      <property name="ImageFile" value="RA071" />
+      <property name="Number" value="071" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Kick" />
+      <property name="Link" value="Punch" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="When played while you have no cards in your hand, you may reveal the top 3 cards of your deck and put a block from those cards into your hand." />
+    </card>
+    <card id="2fcd22a8-bcac-5d5c-82f8-11ed8428b12b" name="Blazing Fury">
+      <property name="ImageFile" value="RA072" />
+      <property name="Number" value="072" />
+      <property name="Rarity" value="Rare" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Kick" />
+      <property name="Link" value="Punch" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="HIT - If this attack was linked from a punch that hit, draw a card." />
+    </card>
+    <card id="d57ea682-caa3-5ac3-b241-1ffb660dec0d" name="Bludgeon Fist">
+      <property name="ImageFile" value="RA0721" />
+      <property name="Number" value="0721" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Punch" />
+      <property name="Link" value="Kick" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="Your attacks in this combo do +1 Damage." />
+    </card>
+    <card id="2fc58e96-8bb5-5f40-bc5d-dfec1f98f5b6" name="Ceiling Dive">
+      <property name="ImageFile" value="RA073" />
+      <property name="Number" value="073" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Weapon" />
+      <property name="Link" value="" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="3" />
+      <property name="Text" value="HIT - Your rival's attacks cost +2 energy in his next action." />
+    </card>
+    <card id="535bea91-4521-55d5-9586-4a1d73afeca7" name="Chain Combo">
+      <property name="ImageFile" value="RA074" />
+      <property name="Number" value="074" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Low Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Weapon" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="HIT - You may put any other remaining attacks in this combo on top of your deck when they finish instead of your energy pile." />
+    </card>
+    <card id="57f6714b-9e24-53ec-80ca-8f03f61e533f" name="Close Clipping">
+      <property name="ImageFile" value="RA0761" />
+      <property name="Number" value="0761" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Weapon" />
+      <property name="Link" value="Projectile" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="4" />
+      <property name="Text" value="HIT - At the start of your rival's next action, they must pay 2 energy or pass." />
+    </card>
+    <card id="d9752a69-0281-50a9-a61d-faff79498ba1" name="Crow Kick">
+      <property name="ImageFile" value="RA079" />
+      <property name="Number" value="079" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Kick" />
+      <property name="Link" value="Punch" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="3" />
+      <property name="Text" value="HIT - When you link a kick in this combo, discard the top card of your rival's deck." />
+    </card>
+    <card id="df96a816-0323-5edd-be4b-b2f17e715841" name="Face Crush">
+      <property name="ImageFile" value="RA083" />
+      <property name="Number" value="083" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="You may pay 1 energy to have this attack do +X damage. X = the damage the previous attack in this combo dealt, to a max of +4." />
+    </card>
+    <card id="af0c0980-6806-5081-8a32-cc2062a4f5af" name="Fist Hammer">
+      <property name="ImageFile" value="RA086" />
+      <property name="Number" value="086" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Low Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Your rival's high attacks do -1 damage during his next action this turn." />
+    </card>
+    <card id="47528153-f973-588a-8c87-e4dce00f0231" name="Flurry of Blows">
+      <property name="ImageFile" value="RA087" />
+      <property name="Number" value="087" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Your rival's first attack in his next action does -1 damage." />
+    </card>
+    <card id="e8c3437d-f74e-5118-a909-46b1ebc345a0" name="Frenzy Slashes">
+      <property name="ImageFile" value="RA091" />
+      <property name="Number" value="091" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Low Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="You may pay 1 energy to have this attack gain any modifiers from the previous attack of this combo." />
+    </card>
+    <card id="4e04805b-5acf-5088-a804-765a14677db2" name="Front Flip">
+      <property name="ImageFile" value="RA092" />
+      <property name="Number" value="092" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="HIT - Your rival cannot use &quot;HIT -&quot; effects in his next action." />
+    </card>
+    <card id="069601a1-9720-57e6-b521-9706f52b2401" name="Full Body Cat's Tongue">
+      <property name="ImageFile" value="RA0921" />
+      <property name="Number" value="0921" />
+      <property name="Rarity" value="uncommon" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Curse" />
+      <property name="Link" value="" />
+      <property name="Cost" value="3" />
+      <property name="Damage" value="3" />
+      <property name="Text" value="Your opponent must pay +1 Energy to block this attack.   HIT - Choose a form for you opponent, they can no longer change from that form unless they play “Phoenix Pill”." />
+    </card>
+    <card id="c27f9d7b-fd27-5e0e-80ab-d7537c8c6e27" name="Head Kick">
+      <property name="ImageFile" value="RA100" />
+      <property name="Number" value="100" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="If played in a combo that included a weapon attack, your rival puts a card from his hand on top of his deck." />
+    </card>
+    <card id="e3958ed1-53a7-582f-8333-fff7b63f4fe4" name="Jump Kick">
+      <property name="ImageFile" value="RA110" />
+      <property name="Number" value="110" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="If played as the 3rd or higher attack in a combo, discard the top 2 cards of your rival's deck." />
+    </card>
+    <card id="9d828183-2dcf-5126-8626-4f06f9dcef18" name="Leaping Kick">
+      <property name="ImageFile" value="RA117" />
+      <property name="Number" value="117" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="When an event is damaged by an attack in this combo, you may put that attack on top of your deck instead of your energy pile." />
+    </card>
+    <card id="f35bbac9-8200-5aea-a5d2-a62ec6591724" name="Overhead Throw">
+      <property name="ImageFile" value="RA1231" />
+      <property name="Number" value="1231" />
+      <property name="Rarity" value="Uncommon" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Throw" />
+      <property name="Link" value="Punch" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="HIT - You may pay one enery to choose a kick in your discard pile, put that card into your hand." />
+    </card>
+    <card id="7e9e43d4-92ec-5019-b5dd-669537710fe5" name="Pond Toss">
+      <property name="ImageFile" value="RA1261" />
+      <property name="Number" value="1261" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Throw" />
+      <property name="Link" value="Kick" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="HIT - Transform your rival's character if possible." />
+    </card>
+    <card id="6db39f72-081b-5b6f-96a3-369ba856532e" name="Pond Toss [ALT]">
+      <property name="ImageFile" value="RA1262" />
+      <property name="Number" value="1262" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Throw" />
+      <property name="Link" value="Kick" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="HIT - Transform your rival's character if possible." />
+    </card>
+    <card id="0ce3d8af-16d6-5ede-8c4a-1781304fe8f1" name="Pulse Blast">
+      <property name="ImageFile" value="RA1271" />
+      <property name="Number" value="1271" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Kick" />
+      <property name="Link" value="Kick" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="" />
+    </card>
+    <card id="62f2165e-637d-5c6e-9f06-1365d1e4ef4e" name="Strong Throw">
+      <property name="ImageFile" value="RA148" />
+      <property name="Number" value="148" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="HIT - The first time your cards are damaged during your rival's next action, put any damaged throws at the bottom of your deck." />
+    </card>
+    <card id="1a90041a-2027-5dd3-8070-386541c1b29f" name="Take All Comers">
+      <property name="ImageFile" value="RA153" />
+      <property name="Number" value="153" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Low Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="This attack does +1 damage for each card in your hand." />
+    </card>
+    <card id="d49faec2-6eb3-5828-ab51-4bde0d688504" name="Trick Shot">
+      <property name="ImageFile" value="RA154" />
+      <property name="Number" value="154" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Low Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="Projectile" />
+      <property name="Link" value="Kick" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="2" />
+      <property name="Text" value="HIT - Put the kick closest to the top of your discard pile on top of your deck." />
+    </card>
+    <card id="2ce7bf7e-f012-5ec3-b8d9-6e748709b43f" name="Under Cut">
+      <property name="ImageFile" value="RA155" />
+      <property name="Number" value="155" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Low Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="If this attack is blocked, put a card from your discard pile into your energy pile." />
+    </card>
+    <card id="179ef095-0935-541b-ac20-3773aa7bc0a5" name="Water Bucket Attack [Akane]">
+      <property name="ImageFile" value="RA1581" />
+      <property name="Number" value="1581" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="" />
+    </card>
+    <card id="2111a9d5-942f-57ee-86df-b9f41dc4a5d6" name="Whirling Demon">
+      <property name="ImageFile" value="RA158" />
+      <property name="Number" value="158" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Attack" />
+      <property name="Type" value="Attack" />
+      <property name="Attack-Type" value="WEAPON" />
+      <property name="Link" value="PROJECTILE" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="4" />
+      <property name="Text" value="HIT - If you have a weapon in your energy pile put a block from your discard pile into your hand." />
+    </card>
+    <card id="be625d24-9863-50a7-9300-6195ac415630" name="Aerial Stuff">
+      <property name="ImageFile" value="RA159" />
+      <property name="Number" value="159" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Block" />
+      <property name="Type" value="Block" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="If this blocks a kick, remove up to 3 cards in your rival's discard pile." />
+    </card>
+    <card id="00302955-bac4-545b-ac84-bb24e3dee155" name="Anticipated">
+      <property name="ImageFile" value="RA160" />
+      <property name="Number" value="160" />
+      <property name="Rarity" value="" />
+      <property name="Style" value="High Block" />
+      <property name="Type" value="Block" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="" />
+    </card>
+    <card id="3a3297f8-ee38-5237-923d-ac7cdf37de81" name="Back Bend">
+      <property name="ImageFile" value="RA161" />
+      <property name="Number" value="161" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Low Block" />
+      <property name="Type" value="Block" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="" />
+      <property name="Text" value="If this blocks a weapon, your attacks chip +2 this turn." />
+    </card>
+    <card id="3f871ddb-ae8e-5220-b449-1464c5a55122" name="Basic Block">
+      <property name="ImageFile" value="RA162" />
+      <property name="Number" value="162" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Low Block" />
+      <property name="Type" value="Block" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="0" />
+      <property name="Damage" value="" />
+      <property name="Text" value="If you have a throw in your energy pile, your attacks cost +2 energy to block this step." />
+    </card>
+    <card id="3498fc52-b94b-55ae-84ef-fdd334fbf45d" name="Energy Aura">
+      <property name="ImageFile" value="RA165" />
+      <property name="Number" value="165" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Low Block" />
+      <property name="Type" value="Block" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="This block stays in the arena to be played X more times. X = the number of projectiles in your energy pile when you play this block from your hand. If it's in the arena when Battle ends, discard it." />
+    </card>
+    <card id="471120b5-d66f-582a-924a-28cdb2b3bd9b" name="Flip">
+      <property name="ImageFile" value="RA166" />
+      <property name="Number" value="166" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Block" />
+      <property name="Type" value="Block" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="You may pay 1 energy. If you do, your rival's action ends when this attack finishes." />
+    </card>
+    <card id="d3e46eff-6324-57a7-a62c-3d981c9d8a44" name="Girth">
+      <property name="ImageFile" value="RA167" />
+      <property name="Number" value="167" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Block" />
+      <property name="Type" value="Block" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="When this blocks a throw, your rival discards 1 card from his energy pile." />
+    </card>
+    <card id="a1d0b024-9f93-5053-9de0-b621235e14d5" name="Incredible Defense">
+      <property name="ImageFile" value="RA1691" />
+      <property name="Number" value="169" />
+      <property name="Rarity" value="" />
+      <property name="Style" value="" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="" />
+    </card>
+    <card id="c8f6fff0-7ded-5b03-8eb0-2e98219d99e9" name="Nimble">
+      <property name="ImageFile" value="RA171" />
+      <property name="Number" value="171" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Low Block" />
+      <property name="Type" value="Block" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="You may pay 1 energy to put a block from your discard pile on top of your deck." />
+    </card>
+    <card id="c295daba-a447-5ed0-ae09-dbfcdaaa01c8" name="Palm Block">
+      <property name="ImageFile" value="RA172" />
+      <property name="Number" value="172" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Block" />
+      <property name="Type" value="Block" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="If this blocks a punch, put the top 2 cards of your discard pile into your energy pile." />
+    </card>
+    <card id="cf296cc3-c767-5cf8-9451-d6e24e97a94e" name="Teacher's Knowledge">
+      <property name="ImageFile" value="RA177" />
+      <property name="Number" value="177" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Block" />
+      <property name="Type" value="Block" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Choose 2 blocks in your discard pile and shuffle them into your deck." />
+    </card>
+    <card id="1e1d7a22-86b2-58de-b59d-741e6a819fef" name="Too Cute">
+      <property name="ImageFile" value="RA178" />
+      <property name="Number" value="178" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="High Block" />
+      <property name="Type" value="Block" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Put the top 2 cards of your discard pile at the bottom of your deck." />
+    </card>
+    <card id="aa44b12e-c004-55d7-be36-79e709df3979" name="Student and Teacher">
+      <property name="ImageFile" value="RA194" />
+      <property name="Number" value="194" />
+      <property name="Rarity" value="Common" />
+      <property name="Style" value="Event" />
+      <property name="Type" value="Event" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="1" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Flip when your rival plays an attack that has the same title as a card in his energy pile. Block that attack. Search your deck for an attack that has the same title as a card in your energy pile." />
+    </card>
+    <card id="6bb08a30-8c92-556a-84b0-ceb7f076a1e2" name="Anything Goes School of Martial Arts">
+      <property name="ImageFile" value="RA197" />
+      <property name="Number" value="197" />
+      <property name="Rarity" value="Rare" />
+      <property name="Style" value="Technique" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="2" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="When you play cards with Air, Aerial, Jump, Jumping, Flying, and Skyward in the title, your rival discards the top card of their deck." />
+    </card>
+    <card id="a4da13e9-ada6-5b73-83f8-2ec608b7d428" name="Blow of the Chicken Egg">
+      <property name="ImageFile" value="RA198" />
+      <property name="Number" value="198" />
+      <property name="Rarity" value="Rare" />
+      <property name="Style" value="Technique" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="1" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="When this technique is set you may put any number of energy you control under it.  As an action you may remove an energy under this technique to perform a HIGH Projectile attack that does 2 damage for zero cost." />
+    </card>
+    <card id="db7b537d-7a04-5b05-87cd-b25c0a4dcca4" name="Chestnuts Roasting on an Open Fire">
+      <property name="ImageFile" value="RA199" />
+      <property name="Number" value="199" />
+      <property name="Rarity" value="Rare" />
+      <property name="Style" value="Technique" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="2" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="When you HIT for the first time each turn discard the top card of your deck and place it into your energy pile." />
+    </card>
+    <card id="6ddf7a15-e998-5b2c-8918-c4be5cb00d5d" name="Howling Mind">
+      <property name="ImageFile" value="RA200" />
+      <property name="Number" value="200" />
+      <property name="Rarity" value="Rare" />
+      <property name="Style" value="Technique" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="0" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="When players draw a card during their draw phase, draw an additional card." />
+    </card>
+    <card id="c19f0aad-418d-5bf4-9cbe-73fea7946b95" name="Special Menu Items">
+      <property name="ImageFile" value="RA201" />
+      <property name="Number" value="201" />
+      <property name="Rarity" value="Rare" />
+      <property name="Style" value="Technique" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="0" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="Your projectiles deal +1 damage." />
+    </card>
+    <card id="7159ce84-dfad-51e7-800f-947858853805" name="Dr Tofu's Clinic">
+      <property name="ImageFile" value="RA202" />
+      <property name="Number" value="202" />
+      <property name="Rarity" value="Uncommon" />
+      <property name="Style" value="Location" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="" />
+    </card>
+    <card id="20cc97d5-bc61-5c54-9909-5efa344b2f4b" name="Furinkan Ice Rink">
+      <property name="ImageFile" value="RA203" />
+      <property name="Number" value="203" />
+      <property name="Rarity" value="Uncommon" />
+      <property name="Style" value="" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="" />
+    </card>
+    <card id="e966c2af-fbb8-5e50-a06b-7dbde1fa58f1" name="Furinkan High School Halls">
+      <property name="ImageFile" value="RA204" />
+      <property name="Number" value="204" />
+      <property name="Rarity" value="Uncommon" />
+      <property name="Style" value="" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="" />
+    </card>
+    <card id="69834d9c-3773-50b8-9212-fcb33a72e6ea" name="Furinkan High School Grounds">
+      <property name="ImageFile" value="RA205" />
+      <property name="Number" value="205" />
+      <property name="Rarity" value="Uncommon" />
+      <property name="Style" value="" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="" />
+    </card>
+    <card id="744d4cbb-91a2-5294-b5e1-18ce005652d9" name="Jusenkyo Training Grounds">
+      <property name="ImageFile" value="RA206" />
+      <property name="Number" value="206" />
+      <property name="Rarity" value="Uncommon" />
+      <property name="Style" value="Location" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="" />
+    </card>
+    <card id="aa24db4b-087c-527b-b8d1-f524e95ed9f7" name="Saotome School of Anything Goes Martial Arts copy">
+      <property name="ImageFile" value="RA207" />
+      <property name="Number" value="207" />
+      <property name="Rarity" value="Uncommon" />
+      <property name="Style" value="Location" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="" />
+    </card>
+    <card id="032a11cb-592c-5de6-966a-41449a2aa977" name="St. Bacchus School for Girls Gymnasium">
+      <property name="ImageFile" value="RA208" />
+      <property name="Number" value="208" />
+      <property name="Rarity" value="Uncommon" />
+      <property name="Style" value="Location" />
+      <property name="Type" value="" />
+      <property name="Attack-Type" value="" />
+      <property name="Link" value="" />
+      <property name="Cost" value="" />
+      <property name="Damage" value="" />
+      <property name="Text" value="" />
+    </card>
+  </cards>
+</set>
