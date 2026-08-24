@@ -11,6 +11,7 @@ using Octgn.Core.DataExtensionMethods;
 using Octgn.Core.DataManagers;
 using Octgn.Core.Plugin;
 using Octgn.DataNew;
+using Octgn.DataNew.Entities;
 
 namespace RanmaImageDownloader
 {
