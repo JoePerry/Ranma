@@ -28,6 +28,7 @@ jobs:
         with:
           repository: octgn/OCTGN
           path: octgn-src
+          submodules: recursive
 
       - name: Set up NuGet
         uses: NuGet/setup-nuget@v2
