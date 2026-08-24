@@ -27,6 +27,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: octgn/OCTGN
+          ref: 086a8f5a91d413dcce215af6af909cec998d34ce
           path: octgn-src
           submodules: recursive
 
