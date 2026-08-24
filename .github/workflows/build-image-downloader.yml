@@ -1,0 +1,55 @@
+name: Build Ranma Image Downloader
+
+on:
+  push:
+    branches:
+      - feature/image-downloader-plugin
+    paths:
+      - "plugin/RanmaImageDownloader/**"
+      - ".github/workflows/build-image-downloader.yml"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Check out Ranma
+        uses: actions/checkout@v4
+
+      - name: Check out OCTGN
+        uses: actions/checkout@v4
+        with:
+          repository: octgn/OCTGN
+          path: octgn-src
+
+      - name: Set up NuGet
+        uses: NuGet/setup-nuget@v2
+
+      - name: Set up MSBuild
+        uses: microsoft/setup-msbuild@v2
+
+      - name: Restore OCTGN packages
+        run: nuget restore octgn-src\OCTGN.sln
+
+      - name: Build OCTGN Core dependencies
+        run: msbuild octgn-src\octgnFX\Octgn.Core\Octgn.Core.csproj /m /p:Configuration=Release /p:Platform=AnyCPU
+
+      - name: Build Ranma image downloader
+        run: msbuild plugin\RanmaImageDownloader\RanmaImageDownloader.csproj /m /p:Configuration=Release /p:Platform=AnyCPU /p:OCTGN_DIR="$env:GITHUB_WORKSPACE\octgn-src\octgnFX\Octgn.Core\bin\Release"
+
+      - name: Stage plugin artifact
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force -Path artifact | Out-Null
+          Copy-Item plugin\RanmaImageDownloader\bin\Release\RanmaImageDownloader.dll artifact\
+          if (Test-Path plugin\RanmaImageDownloader\bin\Release\RanmaImageDownloader.pdb) {
+            Copy-Item plugin\RanmaImageDownloader\bin\Release\RanmaImageDownloader.pdb artifact\
+          }
+          Copy-Item plugin\RanmaImageDownloader\README.md artifact\
+
+      - name: Upload plugin artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: RanmaImageDownloader
+          path: artifact
