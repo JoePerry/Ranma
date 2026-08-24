@@ -7,6 +7,12 @@ on:
     paths:
       - "plugin/RanmaImageDownloader/**"
       - ".github/workflows/build-image-downloader.yml"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "plugin/RanmaImageDownloader/**"
+      - ".github/workflows/build-image-downloader.yml"
   workflow_dispatch:
 
 jobs:
