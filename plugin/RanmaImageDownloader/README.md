@@ -18,9 +18,9 @@ The plugin is restricted to the Ranma game GUID `05ce00ff-544c-5fc1-81ca-387b109
 
 Catalog checksums are verified before an image replaces the installed copy. Cards listed as pending remain visible in the set status and are not treated as download failures.
 
-## Lightweight installation
+## Installation
 
-Only `RanmaImageDownloader.dll` belongs in the game package's `plugins/RanmaImageDownloader` folder. Card images remain on GitHub and must not be bundled into the `.o8g`.
+Players install one Ranma `.o8g`. It contains the game and `def/Plugins/RanmaImageDownloader/RanmaImageDownloader.dll`, which OCTGN copies into its plugin directory during game installation. Card images remain on GitHub and are not bundled into the `.o8g`.
 
 For manual testing, copy the DLL to OCTGN's `Data/Plugins/RanmaImageDownloader` folder, restart OCTGN, and use the Deck Builder workflow above.
 
