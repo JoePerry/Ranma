@@ -29,7 +29,7 @@ namespace RanmaImageDownloader
 
     public sealed class RanmaImageDownloaderMenuItem : IPluginMenuItem
     {
-        public string Name => "Image Downloader";
+        public string Name => "Ranma Image Downloader";
 
         public async void OnClick(IDeckBuilderPluginController controller)
         {

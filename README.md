@@ -12,7 +12,7 @@ Card images are maintained separately through `manifest.json`. The current host 
 
 ## Image downloader plugin
 
-Source for the Deck Builder image downloader is in `plugin/RanmaImageDownloader`. It preserves the familiar OCTGN **Plugins > Image Downloader** workflow: players see installed image counts by set, then choose **Update Selected Set** or **Update All Sets**. Updates read `manifest.json`, use the existing set-GUID/card-GUID image directories, and verify SHA-256 checksums.
+Source for the Deck Builder image downloader is in `plugin/RanmaImageDownloader`. It appears as **Plugins > Ranma Image Downloader** so it does not collide with OCTGN's existing generic downloader, while preserving the familiar set list and **Update Selected Set** / **Update All Sets** workflow. Updates read `manifest.json`, use the existing set-GUID/card-GUID image directories, and verify SHA-256 checksums.
 
 The `.o8g` stays lightweight: only the plugin DLL is installed with the game. Card artwork remains hosted on GitHub and is downloaded only when the player chooses an update action.
 

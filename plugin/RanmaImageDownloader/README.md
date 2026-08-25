@@ -5,7 +5,7 @@ This Deck Builder plugin follows OCTGN's familiar Image Downloader workflow whil
 ## Player workflow
 
 1. Install the Ranma `.o8g` and restart OCTGN.
-2. Open the Deck Builder and choose **Plugins > Image Downloader**.
+2. Open the Deck Builder and choose **Plugins > Ranma Image Downloader**.
 3. Select a Ranma set and choose **Update Selected Set**, or choose **Update All Sets**.
 
 The window reports how many images from each set are installed. An update downloads the current copy of every available image in the selected set, so it can both install missing artwork and replace older artwork.
