@@ -1,0 +1,88 @@
+name: Build Ranma Image Downloader
+
+on:
+  push:
+    branches:
+      - feature/image-downloader-plugin
+    paths:
+      - "plugin/RanmaImageDownloader/**"
+      - "dist/**"
+      - "Ranma-Card-Game.nuspec"
+      - ".github/workflows/build-image-downloader.yml"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "plugin/RanmaImageDownloader/**"
+      - "dist/**"
+      - "Ranma-Card-Game.nuspec"
+      - ".github/workflows/build-image-downloader.yml"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Check out Ranma
+        uses: actions/checkout@v4
+
+      - name: Check out OCTGN
+        uses: actions/checkout@v4
+        with:
+          repository: octgn/OCTGN
+          ref: 086a8f5a91d413dcce215af6af909cec998d34ce
+          path: octgn-src
+          submodules: recursive
+
+      - name: Set up NuGet
+        uses: NuGet/setup-nuget@v2
+
+      - name: Set up MSBuild
+        uses: microsoft/setup-msbuild@v2
+
+      - name: Restore OCTGN packages
+        run: nuget restore octgn-src\OCTGN.sln
+
+      - name: Build OCTGN Core dependencies
+        run: msbuild octgn-src\octgnFX\Octgn.Core\Octgn.Core.csproj /m /p:Configuration=Release /p:Platform=AnyCPU
+
+      - name: Build Ranma image downloader
+        run: msbuild plugin\RanmaImageDownloader\RanmaImageDownloader.csproj /m /p:Configuration=Release /p:Platform=AnyCPU /p:OCTGN_DIR="$env:GITHUB_WORKSPACE\octgn-src\octgnFX\Octgn.Core\bin\Release"
+
+      - name: Build the single Ranma installer
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force -Path installer-artifact | Out-Null
+          nuget pack Ranma-Card-Game.nuspec -OutputDirectory installer-artifact -NoPackageAnalysis
+          $package = Get-ChildItem installer-artifact\*.nupkg | Select-Object -First 1
+          Rename-Item $package.FullName 'Ranma-Card-Game-0.2.3.0.o8g'
+
+      - name: Validate the combined installer
+        shell: pwsh
+        run: |
+          Add-Type -AssemblyName System.IO.Compression.FileSystem
+          $installer = Get-ChildItem installer-artifact\*.o8g | Select-Object -First 1
+          $zip = [System.IO.Compression.ZipFile]::OpenRead($installer.FullName)
+          try {
+            $entries = @($zip.Entries.FullName)
+            if ('def/Plugins/RanmaImageDownloader/RanmaImageDownloader.dll' -notin $entries) {
+              throw 'Combined installer is missing the image downloader.'
+            }
+            if ('def/definition.xml' -notin $entries) {
+              throw 'Combined installer is missing the game definition.'
+            }
+            $cardImages = @($entries | Where-Object { $_ -match '^def/(images?|Sets/.*/Cards)/' })
+            if ($cardImages.Count -ne 0) {
+              throw 'Combined installer must not bundle card artwork.'
+            }
+          }
+          finally {
+            $zip.Dispose()
+          }
+
+      - name: Upload the single Ranma installer
+        uses: actions/upload-artifact@v4
+        with:
+          name: Ranma-Card-Game-Installer
+          path: installer-artifact/Ranma-Card-Game-0.2.3.0.o8g

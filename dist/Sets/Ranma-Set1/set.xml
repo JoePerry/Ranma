@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set name="Ranma-Set1" id="4128c18b-27c2-5569-9f84-5c5b0ce9f7cb" gameId="05ce00ff-544c-5fc1-81ca-387b109116d4" gameVersion="0.2.1.0" version="1.0">
+<set name="Ranma-Set1" id="4128c18b-27c2-5569-9f84-5c5b0ce9f7cb" gameId="05ce00ff-544c-5fc1-81ca-387b109116d4" gameVersion="0.2.3.0" version="1.0">
   <cards>
     <card id="b3033127-5ed0-5f4c-9963-803cdb960da4" name="Akane ">
       <property name="ImageFile" value="RA001" />
