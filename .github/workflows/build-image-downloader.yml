@@ -56,7 +56,7 @@ jobs:
           New-Item -ItemType Directory -Force -Path installer-artifact | Out-Null
           nuget pack Ranma-Card-Game.nuspec -OutputDirectory installer-artifact -NoPackageAnalysis
           $package = Get-ChildItem installer-artifact\*.nupkg | Select-Object -First 1
-          Rename-Item $package.FullName 'Ranma-Card-Game-0.2.3.0.o8g'
+          Rename-Item $package.FullName 'Ranma-Card-Game-0.2.4.0.o8g'
 
       - name: Validate the combined installer
         shell: pwsh
@@ -85,4 +85,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: Ranma-Card-Game-Installer
-          path: installer-artifact/Ranma-Card-Game-0.2.3.0.o8g
+          path: installer-artifact/Ranma-Card-Game-0.2.4.0.o8g

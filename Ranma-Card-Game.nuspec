@@ -2,15 +2,15 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>05ce00ff-544c-5fc1-81ca-387b109116d4</id>
-    <version>0.2.3.0</version>
+    <version>0.2.4.0</version>
     <title>Ranma Card Game</title>
-    <authors>Ranma Card Game project contributors</authors>
-    <owners>Ranma Card Game project contributors</owners>
-    <projectUrl>https://github.com/JoePerry/Ranma</projectUrl>
+    <authors>Strichnine</authors>
+    <owners>Strichnine</owners>
+    <projectUrl>https://sites.google.com/site/epicbattlestcg/epic-battles</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/JoePerry/Ranma/main/dist/Resources/cardback.jpg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>OCTGN definition and integrated image downloader for the Ranma Card Game.</description>
-    <tags>card game ranma</tags>
+    <description>Ranma 1/2 Created by Rumiko Takahashi. Based on the Game Epic Battles by Score. Fan Set by Strichnine.</description>
+    <tags>SCORE 1v1 Epic Battles Ranma Fan Made</tags>
   </metadata>
   <files>
     <file src="dist\**\*" target="def" />
