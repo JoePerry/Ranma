@@ -12,7 +12,7 @@ The window reports how many images from each set are installed. An update downlo
 
 ## Image source and local layout
 
-The plugin is restricted to the Ranma game GUID `05ce00ff-544c-5fc1-81ca-387b109116d4`. It reads `https://raw.githubusercontent.com/JoePerry/Ranma/main/manifest.json` and uses the same convention locally and on GitHub:
+The plugin is restricted to the Ranma game GUID `05ce00ff-544c-5fc1-81ca-387b109116d4`. It reads `https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/manifest.json` and uses the same convention locally and in Cloudflare R2:
 
 `images/<set-guid>/<card-guid>.jpg`
 
@@ -20,7 +20,7 @@ Catalog checksums are verified before an image replaces the installed copy. Card
 
 ## Installation
 
-Players install one Ranma `.o8g`. It contains the game and `def/Plugins/RanmaImageDownloader/RanmaImageDownloader.dll`, which OCTGN copies into its plugin directory during game installation. Card images remain on GitHub and are not bundled into the `.o8g`.
+Players install one Ranma package. It contains the game and `def/Plugins/RanmaImageDownloader/RanmaImageDownloader.dll`, which OCTGN copies into its plugin directory during game installation. Card images remain in Cloudflare R2 and are not bundled into the package.
 
 For manual testing, copy the DLL to OCTGN's `Data/Plugins/RanmaImageDownloader` folder, restart OCTGN, and use the Deck Builder workflow above.
 

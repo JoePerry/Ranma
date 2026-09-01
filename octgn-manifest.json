@@ -1,11 +1,11 @@
 {
   "guid": "05ce00ff-544c-5fc1-81ca-387b109116d4",
   "name": "Ranma Card Game",
-  "version": "0.2.3.0",
-  "versionDate": "2026-08-23T16:55:00Z",
-  "description": "OCTGN definition for the Ranma Card Game beta, with stable card identifiers and two-card Character section.",
+  "version": "0.2.5.0",
+  "versionDate": "2026-09-01T00:00:00Z",
+  "description": "Ranma 1/2 fan set based on Epic Battles by Score, with an integrated Cloudflare-hosted image downloader.",
   "authors": [
-    "JoePerry"
+    "Strichnine"
   ],
   "minimumOctgnVersion": "3.1.240.0",
   "gamePath": "dist",
@@ -13,6 +13,6 @@
     "card game",
     "ranma"
   ],
-  "iconUrl": "https://raw.githubusercontent.com/JoePerry/Ranma/main/dist/Resources/cardback.jpg",
-  "changelog": "Install the Ranma image downloader with the game through one OCTGN package."
+  "iconUrl": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/resources/cardback.jpg",
+  "changelog": "Move the game package, artwork manifest, card images, and integrated downloader to the shared Cloudflare OCTGN feed."
 }
