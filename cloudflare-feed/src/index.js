@@ -119,9 +119,12 @@ async function serveObject(request, env, key, options = {}) {
   }
 
   const isHead = request.method.toUpperCase() === "HEAD";
+  const rangeHeader = request.headers.get("range");
   const object = isHead
     ? await env.OCTGN_DATA.head(key)
-    : await env.OCTGN_DATA.get(key, { range: request.headers });
+    : rangeHeader
+      ? await env.OCTGN_DATA.get(key, { range: request.headers })
+      : await env.OCTGN_DATA.get(key);
   if (!object) return new Response("Object Not Found", { status: 404 });
 
   const headers = new Headers();
@@ -132,7 +135,12 @@ async function serveObject(request, env, key, options = {}) {
   if (object.size !== undefined) headers.set("content-length", String(object.size));
   headers.set("accept-ranges", "bytes");
   headers.set("access-control-allow-origin", "*");
-  headers.set("cache-control", "public, max-age=86400, immutable");
+  headers.set(
+    "cache-control",
+    key.endsWith(".json")
+      ? "public, max-age=300"
+      : "public, max-age=86400, immutable",
+  );
   if (options.contentType) headers.set("content-type", options.contentType);
   if (!headers.has("content-type")) headers.set("content-type", contentTypeFor(key));
   if (options.downloadName) {
@@ -142,7 +150,7 @@ async function serveObject(request, env, key, options = {}) {
     );
   }
 
-  const status = object.range ? 206 : 200;
+  const status = rangeHeader && object.range ? 206 : 200;
   return new Response(isHead ? null : object.body, { status, headers });
 }
 

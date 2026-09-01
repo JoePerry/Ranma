@@ -25,8 +25,10 @@ function mockR2(entries) {
     };
   };
   return {
-    async get(key) {
-      return object(key);
+    async get(key, options) {
+      const value = object(key);
+      if (value && options?.range) value.range = { offset: 0, length: value.size };
+      return value;
     },
     async head(key) {
       const value = object(key);
@@ -91,6 +93,19 @@ test("streams an R2-backed OCTGN package", async () => {
   assert.equal(response.status, 200);
   assert.equal(response.headers.get("content-type"), "application/zip");
   assert.equal(await response.text(), "epic-package");
+});
+
+test("only returns partial content for explicit range requests", async () => {
+  const path =
+    "Packages(Id='336cc7ef-c808-5f75-a22e-0171564da1e3',Version='0.9.0.3')/$value";
+  const full = await handleRequest(new Request(`${BASE}/${path}`), ENV);
+  const partial = await handleRequest(
+    new Request(`${BASE}/${path}`, { headers: { Range: "bytes=0-3" } }),
+    ENV,
+  );
+
+  assert.equal(full.status, 200);
+  assert.equal(partial.status, 206);
 });
 
 test("serves R2-backed image manifests and images", async () => {
