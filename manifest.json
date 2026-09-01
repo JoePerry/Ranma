@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "gameGuid": "05ce00ff-544c-5fc1-81ca-387b109116d4",
-  "requiredGameVersion": "0.2.5.0",
-  "imageRevision": 2,
-  "publishedAt": "2026-09-01T00:00:00+00:00",
+  "requiredGameVersion": "0.2.3.0",
+  "imageRevision": 1,
+  "publishedAt": "2026-08-23T16:38:12+00:00",
   "imageCount": 117,
   "missingCount": 5,
   "images": [
@@ -13,7 +13,7 @@
       "cardName": "Water Bucket Attack [Shampoo]",
       "setGuid": "248531fd-7fb1-51e6-bab9-3d47150cded1",
       "path": "images/248531fd-7fb1-51e6-bab9-3d47150cded1/ee81ba17-e79a-52d4-adfd-c02e7ada7626.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/248531fd-7fb1-51e6-bab9-3d47150cded1/ee81ba17-e79a-52d4-adfd-c02e7ada7626.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/248531fd-7fb1-51e6-bab9-3d47150cded1/ee81ba17-e79a-52d4-adfd-c02e7ada7626.jpg",
       "sha256": "e354d171fa3544472bd91f7a420f26a02799ba7446d2c1ef1a42eeedcb4ed26d",
       "bytes": 522075
     },
@@ -23,7 +23,7 @@
       "cardName": "Water Bucket Attack [ Mousse]",
       "setGuid": "248531fd-7fb1-51e6-bab9-3d47150cded1",
       "path": "images/248531fd-7fb1-51e6-bab9-3d47150cded1/00f41b84-51d9-5ca9-8dbe-488167f1caa2.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/248531fd-7fb1-51e6-bab9-3d47150cded1/00f41b84-51d9-5ca9-8dbe-488167f1caa2.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/248531fd-7fb1-51e6-bab9-3d47150cded1/00f41b84-51d9-5ca9-8dbe-488167f1caa2.jpg",
       "sha256": "0561d5c13919d1beddb0b9ad25b59715a2c218ab51ec9b03ce8740620e78e74b",
       "bytes": 494587
     },
@@ -33,7 +33,7 @@
       "cardName": "Too Cute (Cat)",
       "setGuid": "248531fd-7fb1-51e6-bab9-3d47150cded1",
       "path": "images/248531fd-7fb1-51e6-bab9-3d47150cded1/05ea5cae-5d90-5d94-b377-70b180e2873f.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/248531fd-7fb1-51e6-bab9-3d47150cded1/05ea5cae-5d90-5d94-b377-70b180e2873f.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/248531fd-7fb1-51e6-bab9-3d47150cded1/05ea5cae-5d90-5d94-b377-70b180e2873f.jpg",
       "sha256": "9ca0d725355d3358923fa55dbb0362a175d689634ed09c710462b91abc005e74",
       "bytes": 432304
     },
@@ -43,7 +43,7 @@
       "cardName": "Too Cute (Shampoo)",
       "setGuid": "248531fd-7fb1-51e6-bab9-3d47150cded1",
       "path": "images/248531fd-7fb1-51e6-bab9-3d47150cded1/1bd0abdb-3ad5-53d7-8183-159ce5de5cbe.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/248531fd-7fb1-51e6-bab9-3d47150cded1/1bd0abdb-3ad5-53d7-8183-159ce5de5cbe.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/248531fd-7fb1-51e6-bab9-3d47150cded1/1bd0abdb-3ad5-53d7-8183-159ce5de5cbe.jpg",
       "sha256": "0629923f8c63aa9e95da14d811f1cd1511e94792f0d848c743345a99fd6e81e1",
       "bytes": 432198
     },
@@ -53,7 +53,7 @@
       "cardName": "Akane ",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/b3033127-5ed0-5f4c-9963-803cdb960da4.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/b3033127-5ed0-5f4c-9963-803cdb960da4.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/b3033127-5ed0-5f4c-9963-803cdb960da4.jpg",
       "sha256": "8e7b7ef7f7470bb773007f85a87a8416eaad1008f95b35672725826512cc25ae",
       "bytes": 560562
     },
@@ -63,7 +63,7 @@
       "cardName": "Kodachi \"The Black Rose\" Kuno",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/3b2e2521-bda0-52d9-96a6-f6ffc8312c9c.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/3b2e2521-bda0-52d9-96a6-f6ffc8312c9c.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/3b2e2521-bda0-52d9-96a6-f6ffc8312c9c.jpg",
       "sha256": "68b6d4776019737b5abef83429575957f5496d6bdaca1d28268a83de0242f1f4",
       "bytes": 498276
     },
@@ -73,7 +73,7 @@
       "cardName": "P-Chan",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/9455389e-bbc1-589f-9986-90151471f428.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/9455389e-bbc1-589f-9986-90151471f428.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/9455389e-bbc1-589f-9986-90151471f428.jpg",
       "sha256": "bc15a77443b846de618f42c1e6e5d970a3ce440e43388e57865b2427deb9536d",
       "bytes": 500235
     },
@@ -83,7 +83,7 @@
       "cardName": "Ranma - Guy",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/f433ba8a-7c28-580c-b587-0fbb1fe2a9a7.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/f433ba8a-7c28-580c-b587-0fbb1fe2a9a7.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/f433ba8a-7c28-580c-b587-0fbb1fe2a9a7.jpg",
       "sha256": "51369483a2d9ed8713e7a7728699a0afb7c04280cae0f6b1b7aef1b17211f11e",
       "bytes": 550836
     },
@@ -93,7 +93,7 @@
       "cardName": "Ranma - Girl",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/43384bfa-6a31-5d26-98df-ee011a1764ae.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/43384bfa-6a31-5d26-98df-ee011a1764ae.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/43384bfa-6a31-5d26-98df-ee011a1764ae.jpg",
       "sha256": "1045552ffc21dcb614c86c051d8a5da573405f1d3f4aafb472953daa002c6dd1",
       "bytes": 560647
     },
@@ -103,7 +103,7 @@
       "cardName": "Ryoga",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/b39548a0-7ddd-50f6-ae0f-16bc84291111.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/b39548a0-7ddd-50f6-ae0f-16bc84291111.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/b39548a0-7ddd-50f6-ae0f-16bc84291111.jpg",
       "sha256": "549fb672d40c9f061dba17a10d02dca8b5ef823d98faf15493755bd571a4127c",
       "bytes": 591014
     },
@@ -113,7 +113,7 @@
       "cardName": "Shampoo - Girl",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/0e6b7b46-eaeb-503e-8829-5a26af578ee7.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/0e6b7b46-eaeb-503e-8829-5a26af578ee7.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/0e6b7b46-eaeb-503e-8829-5a26af578ee7.jpg",
       "sha256": "28e35170ec6013a001c7c447809a9fb24dda23d8b76ade07593b0baf94d8c746",
       "bytes": 500961
     },
@@ -123,7 +123,7 @@
       "cardName": "Shampoo - Cat",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/6ac0d2f6-a430-5303-8c24-8a021e622332.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/6ac0d2f6-a430-5303-8c24-8a021e622332.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/6ac0d2f6-a430-5303-8c24-8a021e622332.jpg",
       "sha256": "11165fdc247642d9b73536cdb437a7fa72a2dc3e2df33a3518df20c1e1284ee4",
       "bytes": 516200
     },
@@ -133,7 +133,7 @@
       "cardName": "Tatewaki Kuno",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/7191e38d-bfc3-5b95-9870-a0c301419ac7.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/7191e38d-bfc3-5b95-9870-a0c301419ac7.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/7191e38d-bfc3-5b95-9870-a0c301419ac7.jpg",
       "sha256": "93b1aecd00ce1fd0c137077c7af31b3fb1d03537ae51b9c675483a6e1ce05559",
       "bytes": 555994
     },
@@ -143,7 +143,7 @@
       "cardName": "Mousse - Guy",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/93f3bf35-1bb7-5fff-9e2c-bee786327b12.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/93f3bf35-1bb7-5fff-9e2c-bee786327b12.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/93f3bf35-1bb7-5fff-9e2c-bee786327b12.jpg",
       "sha256": "de40bec7accc7fa5af1e7cd25ac169f8c881491c988c55f8bc2317399901b375",
       "bytes": 436443
     },
@@ -153,7 +153,7 @@
       "cardName": "Mousse - Duck",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/0bfe5e87-ed8a-5ae9-8959-c2662b89df93.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/0bfe5e87-ed8a-5ae9-8959-c2662b89df93.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/0bfe5e87-ed8a-5ae9-8959-c2662b89df93.jpg",
       "sha256": "4521e9edd36b8fae7cd5de5ebc77468be3981bcc1180918ec7dc47049c0e2f78",
       "bytes": 472810
     },
@@ -163,7 +163,7 @@
       "cardName": "Cologne",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/d6c6361c-656a-5e0d-9965-62382d2090bf.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/d6c6361c-656a-5e0d-9965-62382d2090bf.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/d6c6361c-656a-5e0d-9965-62382d2090bf.jpg",
       "sha256": "07a605d45ae225a9a237145671587f4411a4a21345cbe44277b136fa5f967fb4",
       "bytes": 547293
     },
@@ -173,7 +173,7 @@
       "cardName": "Akane Tendo",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/66b6f6fc-7255-5c3d-a1c9-a39e15736214.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/66b6f6fc-7255-5c3d-a1c9-a39e15736214.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/66b6f6fc-7255-5c3d-a1c9-a39e15736214.jpg",
       "sha256": "ebe4340db0e0d31a5f96c1d9ad1fc64221df6e65862993a24dc08901ee38efb6",
       "bytes": 611279
     },
@@ -183,7 +183,7 @@
       "cardName": "Dr. Tofu",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/57ff5164-dddd-5c3a-8988-54984520572e.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/57ff5164-dddd-5c3a-8988-54984520572e.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/57ff5164-dddd-5c3a-8988-54984520572e.jpg",
       "sha256": "5dbf43801e6d107c3b5ed610fa99feb6ebd3f7be2923df54a76c1c539293360b",
       "bytes": 541141
     },
@@ -193,7 +193,7 @@
       "cardName": "Cologne",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/ac621312-796a-5b97-9144-6d8d7f3d35a3.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/ac621312-796a-5b97-9144-6d8d7f3d35a3.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/ac621312-796a-5b97-9144-6d8d7f3d35a3.jpg",
       "sha256": "4037108a6931d8309a288c3d8f409e8dbb72c692bf0dce7d2979611daa64c398",
       "bytes": 518033
     },
@@ -203,7 +203,7 @@
       "cardName": "Genma",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/4b122f10-dbc6-5f88-ba2a-da7cb61d1e2c.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/4b122f10-dbc6-5f88-ba2a-da7cb61d1e2c.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/4b122f10-dbc6-5f88-ba2a-da7cb61d1e2c.jpg",
       "sha256": "4611ea0c8936e50b35d53c9b988f0cc8e3eeedca9523d795ba3e84b2d14eb6b0",
       "bytes": 456195
     },
@@ -213,7 +213,7 @@
       "cardName": "ICHIRO from the Furinkan High School Radio Club",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/9c902442-47a7-5b16-9e23-5e11646ff345.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/9c902442-47a7-5b16-9e23-5e11646ff345.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/9c902442-47a7-5b16-9e23-5e11646ff345.jpg",
       "sha256": "8ed69a56a080b955355750c176e934e6998787d61aa62f9be4347d41c9653258",
       "bytes": 576493
     },
@@ -223,7 +223,7 @@
       "cardName": "Kasumi Tendo",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/e0b51449-dfe9-5e1c-8ea1-c097b8c23ecf.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/e0b51449-dfe9-5e1c-8ea1-c097b8c23ecf.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/e0b51449-dfe9-5e1c-8ea1-c097b8c23ecf.jpg",
       "sha256": "dbde62b72d8828ad69840f3f35131ff08bba17cc06c3898a30834f40112329a6",
       "bytes": 549564
     },
@@ -233,7 +233,7 @@
       "cardName": "Nabiki Tendo",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/65e96add-3713-55b6-85ef-393d289ebbf8.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/65e96add-3713-55b6-85ef-393d289ebbf8.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/65e96add-3713-55b6-85ef-393d289ebbf8.jpg",
       "sha256": "9ce5a52ed33f9bad2104fe12f78072598514e97122b857aa5f0dc429c89507ab",
       "bytes": 588939
     },
@@ -243,7 +243,7 @@
       "cardName": "Soun Tendo",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/9fab7a0d-7bcf-58be-85dd-6a1574ad7447.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/9fab7a0d-7bcf-58be-85dd-6a1574ad7447.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/9fab7a0d-7bcf-58be-85dd-6a1574ad7447.jpg",
       "sha256": "590910bf0fd8c3339e56c9681f27f2cf62ce1dd2c97310fc2675a4013bc1faa9",
       "bytes": 505036
     },
@@ -253,7 +253,7 @@
       "cardName": "Shampoo",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/95cff2e3-0d2f-5656-8f08-50c77194d394.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/95cff2e3-0d2f-5656-8f08-50c77194d394.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/95cff2e3-0d2f-5656-8f08-50c77194d394.jpg",
       "sha256": "3bb4a597c3f59786adbba7ae51b6b77535ae90fe14b7c1f630850cece1d56c31",
       "bytes": 536296
     },
@@ -263,7 +263,7 @@
       "cardName": "P-Chan",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/4aa20971-80e3-53bd-9f1f-0d5080e111fa.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/4aa20971-80e3-53bd-9f1f-0d5080e111fa.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/4aa20971-80e3-53bd-9f1f-0d5080e111fa.jpg",
       "sha256": "2de358c5140a4a535d103496c73a6f3a211c3c6fc3b499786e9c52f1511f2e6e",
       "bytes": 511709
     },
@@ -273,7 +273,7 @@
       "cardName": "Akane Tendo's Skyward Kick",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/bffc4ce8-b447-5e47-a213-18f8cff06217.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/bffc4ce8-b447-5e47-a213-18f8cff06217.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/bffc4ce8-b447-5e47-a213-18f8cff06217.jpg",
       "sha256": "4f2a64d11e8f7ebb0f9bd4d2c0301a1e6d5ca214939d5206564640b3dc2e29e0",
       "bytes": 621148
     },
@@ -283,7 +283,7 @@
       "cardName": "Akane Tendo's  Backhand Slap",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/994dc05c-b1d2-57ab-8eff-b2c7d1f7a53c.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/994dc05c-b1d2-57ab-8eff-b2c7d1f7a53c.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/994dc05c-b1d2-57ab-8eff-b2c7d1f7a53c.jpg",
       "sha256": "a6d5cc4ec801a51146dce925958d83b2102f52a50d734e727d8117ae694a097a",
       "bytes": 582907
     },
@@ -293,7 +293,7 @@
       "cardName": "Akane Tendo's Dashing Punch",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/72920853-b808-532a-bcca-f34302d8a178.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/72920853-b808-532a-bcca-f34302d8a178.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/72920853-b808-532a-bcca-f34302d8a178.jpg",
       "sha256": "2e04fcdd351d29b5ded71ce3add30567a88ecf8fe150f659e9e07f354e983ca7",
       "bytes": 412612
     },
@@ -303,7 +303,7 @@
       "cardName": "Kodachi’s Black Rose Blizzard",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/8147cffe-80d1-5538-8ffa-f02522ce09d8.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/8147cffe-80d1-5538-8ffa-f02522ce09d8.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/8147cffe-80d1-5538-8ffa-f02522ce09d8.jpg",
       "sha256": "5baf8f9889858d9a3d8d99eb85b2e376a6aa1193824924b2f19f6c1f8552d0df",
       "bytes": 433673
     },
@@ -313,7 +313,7 @@
       "cardName": "Kodachi's Ribbon Attack",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/597b842e-9d6c-59a5-bd00-45f42c035753.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/597b842e-9d6c-59a5-bd00-45f42c035753.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/597b842e-9d6c-59a5-bd00-45f42c035753.jpg",
       "sha256": "1f697e4568338103e1c8fdc528f7b9f539294e65cc84e21ebfd2c67af7bf35a4",
       "bytes": 604665
     },
@@ -323,7 +323,7 @@
       "cardName": "Kodachi's Paralyzing Black Rose Attack",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/906c6128-e03f-572a-8246-1b07893bc4a7.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/906c6128-e03f-572a-8246-1b07893bc4a7.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/906c6128-e03f-572a-8246-1b07893bc4a7.jpg",
       "sha256": "6cc9ffcc2d447d3ed61fb6c2268e179d37b777926740ee8faddb12b6900c17ca",
       "bytes": 520438
     },
@@ -333,7 +333,7 @@
       "cardName": "Ranma's Fierce Punch",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/12a8fcb7-1960-5e9a-ac0e-480499ea8ba7.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/12a8fcb7-1960-5e9a-ac0e-480499ea8ba7.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/12a8fcb7-1960-5e9a-ac0e-480499ea8ba7.jpg",
       "sha256": "160e96281f803483756f56f852f44c6d238eca2b26d18d41700b44802bc5f7fc",
       "bytes": 511892
     },
@@ -343,7 +343,7 @@
       "cardName": "Ranma's Mocking Split Dodge",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/9b6e3092-c589-57b9-80a0-64720897d682.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/9b6e3092-c589-57b9-80a0-64720897d682.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/9b6e3092-c589-57b9-80a0-64720897d682.jpg",
       "sha256": "2c40afbf83fe7484c25b7075608d5a6b9fd0b8f7611cf80e55e47d6462534206",
       "bytes": 586006
     },
@@ -353,7 +353,7 @@
       "cardName": "Ranma's Aerial Assault",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/158d2db9-bd77-5406-b449-2fce2c2a8c1a.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/158d2db9-bd77-5406-b449-2fce2c2a8c1a.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/158d2db9-bd77-5406-b449-2fce2c2a8c1a.jpg",
       "sha256": "86660ed8a5597286fefbc53ef5662dec653acb8fc9eea277da182c973996e6fe",
       "bytes": 502599
     },
@@ -363,7 +363,7 @@
       "cardName": "Ryoga's Umbrella Block",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/53ab44d9-849b-5c01-b3bd-177006091630.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/53ab44d9-849b-5c01-b3bd-177006091630.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/53ab44d9-849b-5c01-b3bd-177006091630.jpg",
       "sha256": "6bd35271d456ef111dbd2ca348e2923f867a146a7dfb1f000407d5b42a1d45be",
       "bytes": 541098
     },
@@ -373,7 +373,7 @@
       "cardName": "P-Chan's Bite",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/94ee2dc0-77c4-5ee2-89cf-9d7f11619bee.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/94ee2dc0-77c4-5ee2-89cf-9d7f11619bee.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/94ee2dc0-77c4-5ee2-89cf-9d7f11619bee.jpg",
       "sha256": "dc996dd8bb1c899b2e15ac25f4faff6e194e4c99229cd60fe8cd2b76255c9776",
       "bytes": 467044
     },
@@ -383,7 +383,7 @@
       "cardName": "Ryoga's Lost Attack",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/05e8df75-1a13-5b50-bd5a-eec0b53e48ea.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/05e8df75-1a13-5b50-bd5a-eec0b53e48ea.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/05e8df75-1a13-5b50-bd5a-eec0b53e48ea.jpg",
       "sha256": "57193934738504ed9d82cbefde4d394e57f0fdd3a575407047bbc4165b6fb5de",
       "bytes": 524388
     },
@@ -393,7 +393,7 @@
       "cardName": "Shampoo's Xi Fa Xiang Gao",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/a6fb99f1-d948-5742-b677-d41fb45023f5.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/a6fb99f1-d948-5742-b677-d41fb45023f5.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/a6fb99f1-d948-5742-b677-d41fb45023f5.jpg",
       "sha256": "1114851e5ab14c095644e1680c081951cd41928bfb848e85a0f099d1dfbc3c74",
       "bytes": 543275
     },
@@ -403,7 +403,7 @@
       "cardName": "Shampoo's Wallbreaker",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/297e517e-ca12-5e21-90b9-ba50197567ee.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/297e517e-ca12-5e21-90b9-ba50197567ee.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/297e517e-ca12-5e21-90b9-ba50197567ee.jpg",
       "sha256": "d5c39804eaa0d10f72c8c8aa8f0dfaeadc282c74536b9d03e4fac58ecdef2e9b",
       "bytes": 506374
     },
@@ -413,7 +413,7 @@
       "cardName": "Shampoo's Mad",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/0760f510-0ec5-52be-9a0a-973c48ee55df.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/0760f510-0ec5-52be-9a0a-973c48ee55df.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/0760f510-0ec5-52be-9a0a-973c48ee55df.jpg",
       "sha256": "5e6c2241e12385ac16c5c16c4f77c3c18206230e78eb3934deaf19a58ff14a5c",
       "bytes": 519185
     },
@@ -423,7 +423,7 @@
       "cardName": "Tatewaki Kuno Blue Thunder",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/09bbca33-9dc7-592b-a25b-bceb5eb9ab32.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/09bbca33-9dc7-592b-a25b-bceb5eb9ab32.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/09bbca33-9dc7-592b-a25b-bceb5eb9ab32.jpg",
       "sha256": "1d401e1594866dbd654b1c849c0f128e84dd90961fb373cf062ea4e7da6aa698",
       "bytes": 504241
     },
@@ -433,7 +433,7 @@
       "cardName": "Tatewaki Kuno Forward Slash",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/0a26b48d-463a-5e3e-8e72-a77ae302ae0b.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/0a26b48d-463a-5e3e-8e72-a77ae302ae0b.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/0a26b48d-463a-5e3e-8e72-a77ae302ae0b.jpg",
       "sha256": "542e3ae01dad798a7d061467f7673754c386bd1206164e93ba4f9775a1c3fab8",
       "bytes": 539543
     },
@@ -443,7 +443,7 @@
       "cardName": "Tatewaki Kuno Challenging Strike",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/3acd4f4b-2ec6-5efd-b25f-ab6a10c89670.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/3acd4f4b-2ec6-5efd-b25f-ab6a10c89670.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/3acd4f4b-2ec6-5efd-b25f-ab6a10c89670.jpg",
       "sha256": "b3a11e310c5e16e9e18e9d89e904548e2eb79c0495742f1f0e68c9c3df237e21",
       "bytes": 482986
     },
@@ -453,7 +453,7 @@
       "cardName": "Mousse Hidden Weapon Grapple",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/8d6895d8-3a61-5c78-9164-257f6834c5df.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/8d6895d8-3a61-5c78-9164-257f6834c5df.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/8d6895d8-3a61-5c78-9164-257f6834c5df.jpg",
       "sha256": "c50916e2306f8ee5890f4f2f28d1b4edef4093878328ab05bee7b9494e82ef0a",
       "bytes": 615213
     },
@@ -463,7 +463,7 @@
       "cardName": "Mousse Hidden Bomb Spray",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/dd37a714-b2e8-5c9c-a7fc-5c3cd6ae2616.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/dd37a714-b2e8-5c9c-a7fc-5c3cd6ae2616.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/dd37a714-b2e8-5c9c-a7fc-5c3cd6ae2616.jpg",
       "sha256": "51d62b4b94304e5a5b63a736d4a69a3598b5e4a552a59ee8508b5334f0bbf50f",
       "bytes": 538335
     },
@@ -473,7 +473,7 @@
       "cardName": "Mousse Hidden Weapons Attack",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/33f9ebb4-0319-548c-819a-9c4e6af34d95.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/33f9ebb4-0319-548c-819a-9c4e6af34d95.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/33f9ebb4-0319-548c-819a-9c4e6af34d95.jpg",
       "sha256": "01b927d300b4ebf878855002c2b10a1936edf3deec264ad45592d53cdaa2e8ac",
       "bytes": 610387
     },
@@ -483,7 +483,7 @@
       "cardName": "Cologne Elemental Attack",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/4d86ce2f-6bac-579c-b7ba-67291b418f42.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/4d86ce2f-6bac-579c-b7ba-67291b418f42.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/4d86ce2f-6bac-579c-b7ba-67291b418f42.jpg",
       "sha256": "77c63b359e8d4f754b530e4f4f063077d9cd7cf75a8c0e6e730b0c8d14e0c604",
       "bytes": 511375
     },
@@ -493,7 +493,7 @@
       "cardName": "Cologne Water Vortex",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/342580ff-46b0-5008-81dc-de9c9410257e.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/342580ff-46b0-5008-81dc-de9c9410257e.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/342580ff-46b0-5008-81dc-de9c9410257e.jpg",
       "sha256": "06b5509bfb2909f5ab04ed9f3b9567d33e6579769c7a1cc3e0886c9390ece971",
       "bytes": 497591
     },
@@ -503,7 +503,7 @@
       "cardName": "Cologne Elemental Megalodon",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/f9fdc95d-c08f-5f07-b592-34bcce522345.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/f9fdc95d-c08f-5f07-b592-34bcce522345.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/f9fdc95d-c08f-5f07-b592-34bcce522345.jpg",
       "sha256": "37a6612a00c4c88cf55dd52240ee5a16d2ebb8658bc881bf657905812c3165de",
       "bytes": 555568
     },
@@ -513,7 +513,7 @@
       "cardName": "Betrayal",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/721bc64a-b7bc-5c4d-ac43-09c3cc47ac94.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/721bc64a-b7bc-5c4d-ac43-09c3cc47ac94.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/721bc64a-b7bc-5c4d-ac43-09c3cc47ac94.jpg",
       "sha256": "a36ecb82a65ecca051ed634ec31afa033d606783e724dde9cc7f33023be6c459",
       "bytes": 407980
     },
@@ -523,7 +523,7 @@
       "cardName": "Busted",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/1849572c-a7df-5259-b834-601be45fb88b.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/1849572c-a7df-5259-b834-601be45fb88b.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/1849572c-a7df-5259-b834-601be45fb88b.jpg",
       "sha256": "0892a490e9fd3ff8f70ac8ec973bbd4289a695381e17c3766d42fa9b53f2663f",
       "bytes": 411671
     },
@@ -533,7 +533,7 @@
       "cardName": "Cat Fight",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/e14b28b0-12a2-5b17-a5a3-97d1bf5e2b6b.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/e14b28b0-12a2-5b17-a5a3-97d1bf5e2b6b.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/e14b28b0-12a2-5b17-a5a3-97d1bf5e2b6b.jpg",
       "sha256": "b6f996e769b522302f67d8a96aac551d670d764b24b1380d902b5eb8e0bc7b93",
       "bytes": 573329
     },
@@ -543,7 +543,7 @@
       "cardName": "Dirty Tricks",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/925539a0-245d-5418-a046-d8ec65c2c007.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/925539a0-245d-5418-a046-d8ec65c2c007.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/925539a0-245d-5418-a046-d8ec65c2c007.jpg",
       "sha256": "359d9a477e0686d3bb7683493fe317f2b261a3014735fd4d923548ff6da24015",
       "bytes": 445909
     },
@@ -553,7 +553,7 @@
       "cardName": "Dr's Visit",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/1f2a11b0-35f2-5298-9790-4e4e73842c3c.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/1f2a11b0-35f2-5298-9790-4e4e73842c3c.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/1f2a11b0-35f2-5298-9790-4e4e73842c3c.jpg",
       "sha256": "8e6257b9095292c7ed83011f4779cb004f98464a8b0bb624dc5d3703e1b44dd6",
       "bytes": 510596
     },
@@ -563,7 +563,7 @@
       "cardName": "Launched Skyward",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/a507c7bc-52c7-5051-89fa-f82b087ab433.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/a507c7bc-52c7-5051-89fa-f82b087ab433.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/a507c7bc-52c7-5051-89fa-f82b087ab433.jpg",
       "sha256": "ec5c504423ded4c301d658524607bca5d922b3a9f8734454181ab17cd7594eae",
       "bytes": 565759
     },
@@ -573,7 +573,7 @@
       "cardName": "Onsen Cannon",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/15c217a3-6786-510a-9935-8000a877af77.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/15c217a3-6786-510a-9935-8000a877af77.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/15c217a3-6786-510a-9935-8000a877af77.jpg",
       "sha256": "7219b58b81e95b614a19e470c2d496e22e87bd19947dcbe1110556f38dfc5b1b",
       "bytes": 526548
     },
@@ -583,7 +583,7 @@
       "cardName": "Poor Little Guy",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/ae9df259-a135-534e-9d57-39b47e07a58a.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/ae9df259-a135-534e-9d57-39b47e07a58a.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/ae9df259-a135-534e-9d57-39b47e07a58a.jpg",
       "sha256": "b4b0a1a8258a0eac43251e22646bc7a6409104a44ffdc30b13f7a6edea8a5351",
       "bytes": 430077
     },
@@ -593,7 +593,7 @@
       "cardName": "Sneak Attack",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/a7361d16-1b4c-59e4-b16f-9bcb722d8e88.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/a7361d16-1b4c-59e4-b16f-9bcb722d8e88.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/a7361d16-1b4c-59e4-b16f-9bcb722d8e88.jpg",
       "sha256": "a13edd409763bfeb4b5543cd9d5120337a51b65c23b89c9a1947edb9b925650c",
       "bytes": 535329
     },
@@ -603,7 +603,7 @@
       "cardName": "Spiteful Transformation",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/e2089d9a-4681-5919-b843-292ed40bdb57.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/e2089d9a-4681-5919-b843-292ed40bdb57.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/e2089d9a-4681-5919-b843-292ed40bdb57.jpg",
       "sha256": "e399d9fec05a6f6524bb2b11586b4add03f5c1ba1d636b5fc5f3ac266fc85aaf",
       "bytes": 527008
     },
@@ -613,7 +613,7 @@
       "cardName": "Aerial Combo",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/2a0b38e5-f39a-5884-80e7-65563897f91d.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/2a0b38e5-f39a-5884-80e7-65563897f91d.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/2a0b38e5-f39a-5884-80e7-65563897f91d.jpg",
       "sha256": "c9964ee1cda7d255eac3c2c857258afb86ec66aa2eacd6bbd77b4a2689b9b6de",
       "bytes": 529655
     },
@@ -623,7 +623,7 @@
       "cardName": "Air Kicks",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/30663c11-91bc-56c3-816d-b1743d6adb73.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/30663c11-91bc-56c3-816d-b1743d6adb73.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/30663c11-91bc-56c3-816d-b1743d6adb73.jpg",
       "sha256": "aa7a018431d66f794cc9c7033e53dfebcfee7afd738c6ac305c553c722f307b2",
       "bytes": 506306
     },
@@ -633,7 +633,7 @@
       "cardName": "Ankle Biter",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/c1827cb8-edbf-5432-b0e7-28d0e539d0e7.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/c1827cb8-edbf-5432-b0e7-28d0e539d0e7.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/c1827cb8-edbf-5432-b0e7-28d0e539d0e7.jpg",
       "sha256": "4d311ea6123a4b562c20f0a0c414cf3e4511e1784ac9c503437886e272240295",
       "bytes": 502340
     },
@@ -643,7 +643,7 @@
       "cardName": "Back Breaker",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/b284d55e-88d1-5019-8e30-d45d719ab937.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/b284d55e-88d1-5019-8e30-d45d719ab937.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/b284d55e-88d1-5019-8e30-d45d719ab937.jpg",
       "sha256": "159146b6712cec66aa36d8f16ef3910bbd4362bf79be5fee2c7ea80589b05e47",
       "bytes": 529052
     },
@@ -653,7 +653,7 @@
       "cardName": "Back Handspring",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/e3a5fd86-3c01-581e-95d0-4f1c567ba56b.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/e3a5fd86-3c01-581e-95d0-4f1c567ba56b.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/e3a5fd86-3c01-581e-95d0-4f1c567ba56b.jpg",
       "sha256": "2b1a405d22e1b3b9b4e6cbe0908c2fce2d6c60f2cd1fde7a8465575bb40a8bdd",
       "bytes": 527638
     },
@@ -663,7 +663,7 @@
       "cardName": "Back Kick",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/c37fabe2-5e53-572d-9764-516733e29790.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/c37fabe2-5e53-572d-9764-516733e29790.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/c37fabe2-5e53-572d-9764-516733e29790.jpg",
       "sha256": "ac0476411d823a30680ffe6471cc209d4381ee8a0a9b083edb0baf7f95578824",
       "bytes": 498612
     },
@@ -673,7 +673,7 @@
       "cardName": "Back Stomp",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/05624828-6d73-5e24-810a-5f7fa69792b2.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/05624828-6d73-5e24-810a-5f7fa69792b2.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/05624828-6d73-5e24-810a-5f7fa69792b2.jpg",
       "sha256": "35921b08a3df5c68d972ff156dbe8b1e79f72d2516b7963f38c57c2a21562cd4",
       "bytes": 528812
     },
@@ -683,7 +683,7 @@
       "cardName": "Back to Back",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/8203f1f9-92b4-5b42-a77d-e1e8ef819d1d.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/8203f1f9-92b4-5b42-a77d-e1e8ef819d1d.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/8203f1f9-92b4-5b42-a77d-e1e8ef819d1d.jpg",
       "sha256": "ad0074d4f02e0e31fd70ff3dedfe6f68afaaa48f497c56f4783eb7095391d820",
       "bytes": 494690
     },
@@ -693,7 +693,7 @@
       "cardName": "Battle Mastery",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/9158b997-1a8d-5db4-a720-306f2b445a9a.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/9158b997-1a8d-5db4-a720-306f2b445a9a.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/9158b997-1a8d-5db4-a720-306f2b445a9a.jpg",
       "sha256": "67d4aa6f53beae0d4c832c65f1240e8fc75919d1d8cb97c7b9fc82c69b9d7af6",
       "bytes": 583447
     },
@@ -703,7 +703,7 @@
       "cardName": "Berserk Chop",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/95d7ec23-394c-54a9-9df2-9105a35a1615.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/95d7ec23-394c-54a9-9df2-9105a35a1615.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/95d7ec23-394c-54a9-9df2-9105a35a1615.jpg",
       "sha256": "66ff1574e5678955222302029a06b4a5e2867ddc45db34bb4e1959697daa7eee",
       "bytes": 527685
     },
@@ -713,7 +713,7 @@
       "cardName": "Bitter Blade",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/3c4242c4-e0e7-5257-9fc2-b2d0199ac34d.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/3c4242c4-e0e7-5257-9fc2-b2d0199ac34d.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/3c4242c4-e0e7-5257-9fc2-b2d0199ac34d.jpg",
       "sha256": "8bc51379b266ea7835a8a061ad19db47a80c9c180e4e21b9650d1c000e18d0d6",
       "bytes": 448891
     },
@@ -723,7 +723,7 @@
       "cardName": "Blade Kick",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/89a62a26-eedb-51fc-bec0-d70b64ca7c21.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/89a62a26-eedb-51fc-bec0-d70b64ca7c21.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/89a62a26-eedb-51fc-bec0-d70b64ca7c21.jpg",
       "sha256": "27156a680990ffc8ec7fbf51c4f9d28e41f0314ba6df111dc6340bdde583e037",
       "bytes": 478274
     },
@@ -733,7 +733,7 @@
       "cardName": "Blazing Fury",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/2fcd22a8-bcac-5d5c-82f8-11ed8428b12b.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/2fcd22a8-bcac-5d5c-82f8-11ed8428b12b.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/2fcd22a8-bcac-5d5c-82f8-11ed8428b12b.jpg",
       "sha256": "b30e8bec88e349b038bd5359635ab19abf5106e987a269d61465336107347943",
       "bytes": 469373
     },
@@ -743,7 +743,7 @@
       "cardName": "Bludgeon Fist",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/d57ea682-caa3-5ac3-b241-1ffb660dec0d.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/d57ea682-caa3-5ac3-b241-1ffb660dec0d.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/d57ea682-caa3-5ac3-b241-1ffb660dec0d.jpg",
       "sha256": "41cb500ac37ff8ef35b8730480bb32ad33b569d4cd851cf2e2ebc8fda514b29a",
       "bytes": 538237
     },
@@ -753,7 +753,7 @@
       "cardName": "Ceiling Dive",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/2fc58e96-8bb5-5f40-bc5d-dfec1f98f5b6.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/2fc58e96-8bb5-5f40-bc5d-dfec1f98f5b6.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/2fc58e96-8bb5-5f40-bc5d-dfec1f98f5b6.jpg",
       "sha256": "354075a1ca47e88ea8f88dff988fe8eadb1698255cb5f7d9a2df3205334f95c1",
       "bytes": 499746
     },
@@ -763,7 +763,7 @@
       "cardName": "Chain Combo",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/535bea91-4521-55d5-9586-4a1d73afeca7.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/535bea91-4521-55d5-9586-4a1d73afeca7.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/535bea91-4521-55d5-9586-4a1d73afeca7.jpg",
       "sha256": "7d23fcfa44ba29749785c8eb07f70e2a0997ee3af0bc35cdfe3076394890ae73",
       "bytes": 490780
     },
@@ -773,7 +773,7 @@
       "cardName": "Close Clipping",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/57f6714b-9e24-53ec-80ca-8f03f61e533f.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/57f6714b-9e24-53ec-80ca-8f03f61e533f.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/57f6714b-9e24-53ec-80ca-8f03f61e533f.jpg",
       "sha256": "49f19935f19d5112fbc5c97130dfb811ac08168ebbd02fbc2c66b4ab36564990",
       "bytes": 577743
     },
@@ -783,7 +783,7 @@
       "cardName": "Crow Kick",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/d9752a69-0281-50a9-a61d-faff79498ba1.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/d9752a69-0281-50a9-a61d-faff79498ba1.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/d9752a69-0281-50a9-a61d-faff79498ba1.jpg",
       "sha256": "749f88b0839e5f06086a5b9645280a1f34fb1aafe4a2617db2819085202b5b21",
       "bytes": 519884
     },
@@ -793,7 +793,7 @@
       "cardName": "Face Crush",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/df96a816-0323-5edd-be4b-b2f17e715841.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/df96a816-0323-5edd-be4b-b2f17e715841.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/df96a816-0323-5edd-be4b-b2f17e715841.jpg",
       "sha256": "295d3a80ff3cc8d4d3883fb09eea129b9b796cb4a8ccb07ddca5733d1fd109a1",
       "bytes": 399324
     },
@@ -803,7 +803,7 @@
       "cardName": "Fist Hammer",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/af0c0980-6806-5081-8a32-cc2062a4f5af.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/af0c0980-6806-5081-8a32-cc2062a4f5af.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/af0c0980-6806-5081-8a32-cc2062a4f5af.jpg",
       "sha256": "11e8c647ea840138685ccb318266f1cdb1c31415579a8e4f24ea7ac1d3250e3c",
       "bytes": 487689
     },
@@ -813,7 +813,7 @@
       "cardName": "Flurry of Blows",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/47528153-f973-588a-8c87-e4dce00f0231.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/47528153-f973-588a-8c87-e4dce00f0231.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/47528153-f973-588a-8c87-e4dce00f0231.jpg",
       "sha256": "2812beb3cfc8d5e6ee764b99f378565aa953b1a8cb994b6e3af4748c3f479bf6",
       "bytes": 509114
     },
@@ -823,7 +823,7 @@
       "cardName": "Frenzy Slashes",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/e8c3437d-f74e-5118-a909-46b1ebc345a0.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/e8c3437d-f74e-5118-a909-46b1ebc345a0.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/e8c3437d-f74e-5118-a909-46b1ebc345a0.jpg",
       "sha256": "57280ec455a71d35badf3cff14644efba62a304afec59210a756f0329a37ae98",
       "bytes": 468054
     },
@@ -833,7 +833,7 @@
       "cardName": "Full Body Cat's Tongue",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/069601a1-9720-57e6-b521-9706f52b2401.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/069601a1-9720-57e6-b521-9706f52b2401.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/069601a1-9720-57e6-b521-9706f52b2401.jpg",
       "sha256": "f6c7b0a0df53feb5a00e81fa31c75c77f06b7fba546eca4e65124190bb0aa7e4",
       "bytes": 585521
     },
@@ -843,7 +843,7 @@
       "cardName": "Head Kick",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/c27f9d7b-fd27-5e0e-80ab-d7537c8c6e27.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/c27f9d7b-fd27-5e0e-80ab-d7537c8c6e27.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/c27f9d7b-fd27-5e0e-80ab-d7537c8c6e27.jpg",
       "sha256": "527ad025bcdcc22bb2d92b808942d6476aa1344ef4a4a543e4bfff88a40b4a36",
       "bytes": 487231
     },
@@ -853,7 +853,7 @@
       "cardName": "Jump Kick",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/e3958ed1-53a7-582f-8333-fff7b63f4fe4.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/e3958ed1-53a7-582f-8333-fff7b63f4fe4.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/e3958ed1-53a7-582f-8333-fff7b63f4fe4.jpg",
       "sha256": "37f407a67532ce5bf52aedcde02db934387b999fd15d7ed73b0b5f0613d3b2f1",
       "bytes": 466809
     },
@@ -863,7 +863,7 @@
       "cardName": "Leaping Kick",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/9d828183-2dcf-5126-8626-4f06f9dcef18.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/9d828183-2dcf-5126-8626-4f06f9dcef18.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/9d828183-2dcf-5126-8626-4f06f9dcef18.jpg",
       "sha256": "73939c891ae9dc9d1c981d858ee73d077fb420df8b543c4538bb617dd4f78cf7",
       "bytes": 551079
     },
@@ -873,7 +873,7 @@
       "cardName": "Overhead Throw",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/f35bbac9-8200-5aea-a5d2-a62ec6591724.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/f35bbac9-8200-5aea-a5d2-a62ec6591724.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/f35bbac9-8200-5aea-a5d2-a62ec6591724.jpg",
       "sha256": "cbdef5bd30feda1de80a4b9b6f88a0edca06abe36b9f79f0d5713edd083caaee",
       "bytes": 520929
     },
@@ -883,7 +883,7 @@
       "cardName": "Pond Toss",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/7e9e43d4-92ec-5019-b5dd-669537710fe5.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/7e9e43d4-92ec-5019-b5dd-669537710fe5.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/7e9e43d4-92ec-5019-b5dd-669537710fe5.jpg",
       "sha256": "449db997fb86bd7d9892022b162ecb3c4495b6bb5e1fc0a7917e5c77a4f9b8a8",
       "bytes": 527614
     },
@@ -893,7 +893,7 @@
       "cardName": "Pond Toss [ALT]",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/6db39f72-081b-5b6f-96a3-369ba856532e.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/6db39f72-081b-5b6f-96a3-369ba856532e.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/6db39f72-081b-5b6f-96a3-369ba856532e.jpg",
       "sha256": "5542e4272e173d97897bad46906826efcc745065ee895d5919ff781b831b1be5",
       "bytes": 536658
     },
@@ -903,7 +903,7 @@
       "cardName": "Pulse Blast",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/0ce3d8af-16d6-5ede-8c4a-1781304fe8f1.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/0ce3d8af-16d6-5ede-8c4a-1781304fe8f1.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/0ce3d8af-16d6-5ede-8c4a-1781304fe8f1.jpg",
       "sha256": "5ef268042003059938189244d417eb4ea6132ffe79e090dd8e3ee532945c9fee",
       "bytes": 510478
     },
@@ -913,7 +913,7 @@
       "cardName": "Strong Throw",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/62f2165e-637d-5c6e-9f06-1365d1e4ef4e.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/62f2165e-637d-5c6e-9f06-1365d1e4ef4e.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/62f2165e-637d-5c6e-9f06-1365d1e4ef4e.jpg",
       "sha256": "b2682cc363fdae11babb2624111a66e46277b3031d7d41d14ecbaab2651aa4f1",
       "bytes": 504524
     },
@@ -923,7 +923,7 @@
       "cardName": "Take All Comers",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/1a90041a-2027-5dd3-8070-386541c1b29f.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/1a90041a-2027-5dd3-8070-386541c1b29f.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/1a90041a-2027-5dd3-8070-386541c1b29f.jpg",
       "sha256": "a8f6fceacfc4a1705f4ddfdcee1bf5887a26dca9663759a6aecba13887c1a631",
       "bytes": 478070
     },
@@ -933,7 +933,7 @@
       "cardName": "Trick Shot",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/d49faec2-6eb3-5828-ab51-4bde0d688504.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/d49faec2-6eb3-5828-ab51-4bde0d688504.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/d49faec2-6eb3-5828-ab51-4bde0d688504.jpg",
       "sha256": "bd6c869da5ea76c6c9d55e4797d883a685ac065d6da4f58dafc4682ee4de7046",
       "bytes": 476790
     },
@@ -943,7 +943,7 @@
       "cardName": "Under Cut",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/2ce7bf7e-f012-5ec3-b8d9-6e748709b43f.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/2ce7bf7e-f012-5ec3-b8d9-6e748709b43f.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/2ce7bf7e-f012-5ec3-b8d9-6e748709b43f.jpg",
       "sha256": "d20cbce5bbf4d4811179d744c44b3f3f750f00688f36702cc2735ed26a5de727",
       "bytes": 553061
     },
@@ -953,7 +953,7 @@
       "cardName": "Whirling Demon",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/2111a9d5-942f-57ee-86df-b9f41dc4a5d6.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/2111a9d5-942f-57ee-86df-b9f41dc4a5d6.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/2111a9d5-942f-57ee-86df-b9f41dc4a5d6.jpg",
       "sha256": "d86a3d09b227346130de751a877818802a7b333672a507c4d22c3ef44e51d811",
       "bytes": 559578
     },
@@ -963,7 +963,7 @@
       "cardName": "Water Bucket Attack [Akane]",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/179ef095-0935-541b-ac20-3773aa7bc0a5.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/179ef095-0935-541b-ac20-3773aa7bc0a5.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/179ef095-0935-541b-ac20-3773aa7bc0a5.jpg",
       "sha256": "f8d254130989b3930c6a2cb9833e3296d47203c695139809b192e285397c18ce",
       "bytes": 583370
     },
@@ -973,7 +973,7 @@
       "cardName": "Aerial Stuff",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/be625d24-9863-50a7-9300-6195ac415630.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/be625d24-9863-50a7-9300-6195ac415630.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/be625d24-9863-50a7-9300-6195ac415630.jpg",
       "sha256": "deb1f27746ddd73c2c4ff5a5624ad1b47a4eccba472a0aad6441096bf8e45081",
       "bytes": 456724
     },
@@ -983,7 +983,7 @@
       "cardName": "Anticipated",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/00302955-bac4-545b-ac84-bb24e3dee155.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/00302955-bac4-545b-ac84-bb24e3dee155.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/00302955-bac4-545b-ac84-bb24e3dee155.jpg",
       "sha256": "af7848713beae13803d7a5506416d7d189b1bdc5fa33349e8338dbe3b628c708",
       "bytes": 557498
     },
@@ -993,7 +993,7 @@
       "cardName": "Back Bend",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/3a3297f8-ee38-5237-923d-ac7cdf37de81.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/3a3297f8-ee38-5237-923d-ac7cdf37de81.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/3a3297f8-ee38-5237-923d-ac7cdf37de81.jpg",
       "sha256": "09d5cab1a12a844748b33941c0e619886c6bf0c3b5eaecffdd1304b30c0d0fef",
       "bytes": 434602
     },
@@ -1003,7 +1003,7 @@
       "cardName": "Basic Block",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/3f871ddb-ae8e-5220-b449-1464c5a55122.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/3f871ddb-ae8e-5220-b449-1464c5a55122.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/3f871ddb-ae8e-5220-b449-1464c5a55122.jpg",
       "sha256": "4da58bfc15b07dd1efaf82fdbbb9e8bee058ff4ff8bbe6da2b27d73478bd992d",
       "bytes": 437818
     },
@@ -1013,7 +1013,7 @@
       "cardName": "Energy Aura",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/3498fc52-b94b-55ae-84ef-fdd334fbf45d.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/3498fc52-b94b-55ae-84ef-fdd334fbf45d.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/3498fc52-b94b-55ae-84ef-fdd334fbf45d.jpg",
       "sha256": "669cc03cccdfb896348ec87952994a4556c9f63d05823784edd88d4a98e0486a",
       "bytes": 510536
     },
@@ -1023,7 +1023,7 @@
       "cardName": "Flip",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/471120b5-d66f-582a-924a-28cdb2b3bd9b.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/471120b5-d66f-582a-924a-28cdb2b3bd9b.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/471120b5-d66f-582a-924a-28cdb2b3bd9b.jpg",
       "sha256": "8028118a1c533e0fe90cf0c8abeb0cafda12271e5dc25030d0b170f71dee3c76",
       "bytes": 541836
     },
@@ -1033,7 +1033,7 @@
       "cardName": "Girth",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/d3e46eff-6324-57a7-a62c-3d981c9d8a44.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/d3e46eff-6324-57a7-a62c-3d981c9d8a44.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/d3e46eff-6324-57a7-a62c-3d981c9d8a44.jpg",
       "sha256": "5283f5c4edb421cd275732734a698ba91ad21b9cb41912ee55304a0cce78d808",
       "bytes": 465041
     },
@@ -1043,7 +1043,7 @@
       "cardName": "Incredible Defense",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/a1d0b024-9f93-5053-9de0-b621235e14d5.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/a1d0b024-9f93-5053-9de0-b621235e14d5.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/a1d0b024-9f93-5053-9de0-b621235e14d5.jpg",
       "sha256": "5119852b61d9e4b85c9519d04ea610626f8831a31f66d58095e6366d22ee707b",
       "bytes": 502485
     },
@@ -1053,7 +1053,7 @@
       "cardName": "Nimble",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/c8f6fff0-7ded-5b03-8eb0-2e98219d99e9.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/c8f6fff0-7ded-5b03-8eb0-2e98219d99e9.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/c8f6fff0-7ded-5b03-8eb0-2e98219d99e9.jpg",
       "sha256": "75f5abdfec8db875bb8a917593bfb10506f5414e58c2ee0261424cea08dab693",
       "bytes": 470703
     },
@@ -1063,7 +1063,7 @@
       "cardName": "Palm Block",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/c295daba-a447-5ed0-ae09-dbfcdaaa01c8.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/c295daba-a447-5ed0-ae09-dbfcdaaa01c8.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/c295daba-a447-5ed0-ae09-dbfcdaaa01c8.jpg",
       "sha256": "2fe24310af76e4ee7158b223d58bde1b0dd7a4b71afffad96f5e984a648b9446",
       "bytes": 570384
     },
@@ -1073,7 +1073,7 @@
       "cardName": "Too Cute",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/1e1d7a22-86b2-58de-b59d-741e6a819fef.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/1e1d7a22-86b2-58de-b59d-741e6a819fef.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/1e1d7a22-86b2-58de-b59d-741e6a819fef.jpg",
       "sha256": "21aafaa522d4896ea6a01a9b6c9acebdbae1ad2298916d7c0fd36cc06859971b",
       "bytes": 553703
     },
@@ -1083,7 +1083,7 @@
       "cardName": "Student and Teacher",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/aa44b12e-c004-55d7-be36-79e709df3979.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/aa44b12e-c004-55d7-be36-79e709df3979.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/aa44b12e-c004-55d7-be36-79e709df3979.jpg",
       "sha256": "4f4f6572ada34123dc60ea491e4e19b00f515ba0fc109302e42750006f044d53",
       "bytes": 543691
     },
@@ -1093,7 +1093,7 @@
       "cardName": "Anything Goes School of Martial Arts",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/6bb08a30-8c92-556a-84b0-ceb7f076a1e2.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/6bb08a30-8c92-556a-84b0-ceb7f076a1e2.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/6bb08a30-8c92-556a-84b0-ceb7f076a1e2.jpg",
       "sha256": "faa25515f3e8828c175b7ec248cb211a6e31a07e0e8ce930f58c61ad34237bd0",
       "bytes": 538981
     },
@@ -1103,7 +1103,7 @@
       "cardName": "Blow of the Chicken Egg",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/a4da13e9-ada6-5b73-83f8-2ec608b7d428.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/a4da13e9-ada6-5b73-83f8-2ec608b7d428.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/a4da13e9-ada6-5b73-83f8-2ec608b7d428.jpg",
       "sha256": "f894bc2e08244507670b2a38da36b7d49e4a2ce537cd58f25f0ff4efde8f075d",
       "bytes": 588039
     },
@@ -1113,7 +1113,7 @@
       "cardName": "Chestnuts Roasting on an Open Fire",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/db7b537d-7a04-5b05-87cd-b25c0a4dcca4.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/db7b537d-7a04-5b05-87cd-b25c0a4dcca4.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/db7b537d-7a04-5b05-87cd-b25c0a4dcca4.jpg",
       "sha256": "d08d0969b240c1824e4f2671df89f60ab0813d18144ee9bf11cdc2a4f0fffc67",
       "bytes": 521109
     },
@@ -1123,7 +1123,7 @@
       "cardName": "Howling Mind",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/6ddf7a15-e998-5b2c-8918-c4be5cb00d5d.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/6ddf7a15-e998-5b2c-8918-c4be5cb00d5d.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/6ddf7a15-e998-5b2c-8918-c4be5cb00d5d.jpg",
       "sha256": "52822a2741d99a91d9213e136310ee6bd7fe43a6d7b8d5222db9d172d32a90d9",
       "bytes": 424840
     },
@@ -1133,7 +1133,7 @@
       "cardName": "Special Menu Items",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/c19f0aad-418d-5bf4-9cbe-73fea7946b95.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/c19f0aad-418d-5bf4-9cbe-73fea7946b95.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/c19f0aad-418d-5bf4-9cbe-73fea7946b95.jpg",
       "sha256": "e07888bd58d27dad8b26ecd96f469c22eeec4fd934e86ad3a7d4098e54f711d8",
       "bytes": 531871
     },
@@ -1143,7 +1143,7 @@
       "cardName": "Dr Tofu's Clinic",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/7159ce84-dfad-51e7-800f-947858853805.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/7159ce84-dfad-51e7-800f-947858853805.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/7159ce84-dfad-51e7-800f-947858853805.jpg",
       "sha256": "d6f8b3b16e5cfa84323537458047caab9e1a24b330332212141bce0bbf58d183",
       "bytes": 621089
     },
@@ -1153,7 +1153,7 @@
       "cardName": "Jusenkyo Training Grounds",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/744d4cbb-91a2-5294-b5e1-18ce005652d9.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/744d4cbb-91a2-5294-b5e1-18ce005652d9.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/744d4cbb-91a2-5294-b5e1-18ce005652d9.jpg",
       "sha256": "68fb54ad0055166d46b17a7d00c6fe5b46f0d909ddc8cf36945944c83fe227c8",
       "bytes": 661796
     },
@@ -1163,7 +1163,7 @@
       "cardName": "Saotome School of Anything Goes Martial Arts copy",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/aa24db4b-087c-527b-b8d1-f524e95ed9f7.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/aa24db4b-087c-527b-b8d1-f524e95ed9f7.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/aa24db4b-087c-527b-b8d1-f524e95ed9f7.jpg",
       "sha256": "ab8844026663c3008e2b8026213907f930147320418115bb188df0b29b69b8e1",
       "bytes": 596472
     },
@@ -1173,7 +1173,7 @@
       "cardName": "St. Bacchus School for Girls Gymnasium",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
       "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/032a11cb-592c-5de6-966a-41449a2aa977.jpg",
-      "url": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/032a11cb-592c-5de6-966a-41449a2aa977.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/032a11cb-592c-5de6-966a-41449a2aa977.jpg",
       "sha256": "2c7bbdadf7864bce1e022f546077490effda376e98be323e5d1a220efefad3b6",
       "bytes": 508508
     }
