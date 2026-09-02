@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>05ce00ff-544c-5fc1-81ca-387b109116d4</id>
-    <version>0.2.6</version>
+    <version>0.2.7</version>
     <title>Ranma Card Game</title>
     <authors>Strichnine</authors>
     <owners>Strichnine</owners>

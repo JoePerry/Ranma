@@ -6,7 +6,7 @@ OCTGN game definition, releases, and hosted card-image manifests for the Ranma C
 
 Add `https://octgn-multi-game-feed.awesome-mole.workers.dev/` as an OCTGN game feed, choose **Ranma Card Game**, and install it. The same feed also offers Epic Battles Online.
 
-Current version: `0.2.6.0`
+Current version: `0.2.7.0`
 
 Card images are maintained separately through `manifest.json`. The current host contains 117 images and records five pending cards for later incremental updates.
 

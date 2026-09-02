@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set name="Ranma-Set1-Promo" id="248531fd-7fb1-51e6-bab9-3d47150cded1" gameId="05ce00ff-544c-5fc1-81ca-387b109116d4" gameVersion="0.2.6.0" version="1.0">
+<set name="Ranma-Set1-Promo" id="248531fd-7fb1-51e6-bab9-3d47150cded1" gameId="05ce00ff-544c-5fc1-81ca-387b109116d4" gameVersion="0.2.7.0" version="1.1">
   <cards>
     <card id="ee81ba17-e79a-52d4-adfd-c02e7ada7626" name="Water Bucket Attack [Shampoo]">
       <property name="ImageFile" value="PR001" />

@@ -56,7 +56,7 @@ jobs:
           New-Item -ItemType Directory -Force -Path installer-artifact | Out-Null
           nuget pack Ranma-Card-Game.nuspec -OutputDirectory installer-artifact -NoPackageAnalysis
           $package = Get-ChildItem installer-artifact\*.nupkg | Select-Object -First 1
-          Rename-Item $package.FullName 'Ranma-Card-Game-0.2.6.o8g'
+          Rename-Item $package.FullName 'Ranma-Card-Game-0.2.7.o8g'
 
       - name: Validate the combined installer
         shell: pwsh
@@ -72,6 +72,19 @@ jobs:
             if ('def/definition.xml' -notin $entries) {
               throw 'Combined installer is missing the game definition.'
             }
+            $expectedSets = @(
+              'def/Sets/248531fd-7fb1-51e6-bab9-3d47150cded1/set.xml',
+              'def/Sets/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/set.xml'
+            )
+            $packagedSets = @($entries | Where-Object { $_ -match '^def/Sets/[^/]+/set\.xml$' })
+            if ($packagedSets.Count -ne $expectedSets.Count) {
+              throw "Combined installer has an unexpected set count: $($packagedSets.Count)."
+            }
+            foreach ($setPath in $expectedSets) {
+              if ($setPath -notin $packagedSets) {
+                throw "Combined installer is missing GUID-based set path $setPath."
+              }
+            }
             $cardImages = @($entries | Where-Object { $_ -match '^def/(images?|Sets/.*/Cards)/' })
             if ($cardImages.Count -ne 0) {
               throw 'Combined installer must not bundle card artwork.'
@@ -85,4 +98,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: Ranma-Card-Game-Installer
-          path: installer-artifact/Ranma-Card-Game-0.2.6.o8g
+          path: installer-artifact/Ranma-Card-Game-0.2.7.o8g
