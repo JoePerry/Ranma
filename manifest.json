@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "gameGuid": "05ce00ff-544c-5fc1-81ca-387b109116d4",
   "requiredGameVersion": "0.2.3.0",
-  "imageRevision": 1,
-  "publishedAt": "2026-08-23T16:38:12+00:00",
-  "imageCount": 117,
-  "missingCount": 5,
+  "imageRevision": 2,
+  "publishedAt": "2026-09-01T23:25:00+00:00",
+  "imageCount": 118,
+  "missingCount": 4,
   "images": [
     {
       "imageFile": "PR001",
@@ -1176,6 +1176,16 @@
       "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/032a11cb-592c-5de6-966a-41449a2aa977.jpg",
       "sha256": "2c7bbdadf7864bce1e022f546077490effda376e98be323e5d1a220efefad3b6",
       "bytes": 508508
+    },
+    {
+      "imageFile": "RA203",
+      "cardGuid": "20cc97d5-bc61-5c54-9909-5efa344b2f4b",
+      "cardName": "Furinkan Ice Rink",
+      "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb",
+      "path": "images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/20cc97d5-bc61-5c54-9909-5efa344b2f4b.jpg",
+      "url": "https://raw.githubusercontent.com/JoePerry/Ranma/main/images/4128c18b-27c2-5569-9f84-5c5b0ce9f7cb/20cc97d5-bc61-5c54-9909-5efa344b2f4b.jpg",
+      "sha256": "77f6ff8fda5587b3ce26c9bc0a3bc1d12fbe93c3f5162b77d0379dd8708c0ce5",
+      "bytes": 677351
     }
   ],
   "missing": [
@@ -1189,12 +1199,6 @@
       "imageFile": "RA177",
       "cardGuid": "cf296cc3-c767-5cf8-9451-d6e24e97a94e",
       "cardName": "Teacher's Knowledge",
-      "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb"
-    },
-    {
-      "imageFile": "RA203",
-      "cardGuid": "20cc97d5-bc61-5c54-9909-5efa344b2f4b",
-      "cardName": "Furinkan Ice Rink",
       "setGuid": "4128c18b-27c2-5569-9f84-5c5b0ce9f7cb"
     },
     {
