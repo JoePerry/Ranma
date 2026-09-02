@@ -5,7 +5,7 @@ import worker, { handleRequest } from "../src/index.js";
 
 const BASE = "https://octgn-multi-game-feed.example.workers.dev";
 const RANMA_KEY =
-  "packages/ranma/05ce00ff-544c-5fc1-81ca-387b109116d4.0.2.6.nupkg";
+  "packages/ranma/05ce00ff-544c-5fc1-81ca-387b109116d4.0.2.7.nupkg";
 const EPIC_KEY =
   "packages/epic-battles-online/336cc7ef-c808-5f75-a22e-0171564da1e3.0.9.0.3.nupkg";
 
@@ -61,7 +61,7 @@ test("lists both games in one feed", async () => {
 
   assert.equal((body.match(/<entry>/g) || []).length, 2);
   assert.match(body, /<d:Title>Ranma Card Game<\/d:Title>/);
-  assert.match(body, /<d:Version>0\.2\.6<\/d:Version>/);
+  assert.match(body, /<d:Version>0\.2\.7<\/d:Version>/);
   assert.match(body, /sites\.google\.com\/site\/epicbattlestcg/);
   assert.match(body, /<d:Title>Epic Battles Online<\/d:Title>/);
   assert.match(body, /<d:Version>0\.9\.0\.3<\/d:Version>/);
