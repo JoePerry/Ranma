@@ -12,8 +12,8 @@ const CATALOG = Object.freeze([
     tags: "SCORE 1v1 Epic Battles Ranma Fan Made",
     r2Key:
       "packages/ranma/05ce00ff-544c-5fc1-81ca-387b109116d4.0.2.6.nupkg",
-    size: 813021,
-    updated: "2026-09-01T12:31:00Z",
+    size: 813071,
+    updated: "2026-09-01T23:35:00Z",
   }),
   Object.freeze({
     id: "336cc7ef-c808-5f75-a22e-0171564da1e3",
