@@ -2,11 +2,11 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>05ce00ff-544c-5fc1-81ca-387b109116d4</id>
-    <version>0.2.5</version>
+    <version>0.2.6</version>
     <title>Ranma Card Game</title>
     <authors>Strichnine</authors>
     <owners>Strichnine</owners>
-    <projectUrl>https://github.com/JoePerry/Ranma</projectUrl>
+    <projectUrl>https://sites.google.com/site/epicbattlestcg/epic-battles-workshop/ranma-12?authuser=0</projectUrl>
     <iconUrl>https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/resources/cardback.jpg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Ranma 1/2 Created by Rumiko Takahashi. Based on the Game Epic Battles by Score. Fan Set by Strichnine.</description>

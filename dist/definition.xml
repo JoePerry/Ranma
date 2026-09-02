@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<game name="Ranma Card Game" id="05ce00ff-544c-5fc1-81ca-387b109116d4" version="0.2.5.0" tags="SCORE 1v1 Epic Battles Ranma Fan Made" description="Ranma 1/2 Created by Rumiko Takahashi. Based on the Game Epic Battles by Score. Fan Set by Strichnine." authors="Strichnine" setsurl="https://github.com/JoePerry/Ranma" gameurl="https://github.com/JoePerry/Ranma" iconurl="https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/resources/cardback.jpg" octgnVersion="3.1.240.0" scriptVersion="3.1.0.2" markersize="25" usetwosidedtable="False">
+<game name="Ranma Card Game" id="05ce00ff-544c-5fc1-81ca-387b109116d4" version="0.2.6.0" tags="SCORE 1v1 Epic Battles Ranma Fan Made" description="Ranma 1/2 Created by Rumiko Takahashi. Based on the Game Epic Battles by Score. Fan Set by Strichnine." authors="Strichnine" setsurl="https://sites.google.com/site/epicbattlestcg/epic-battles-workshop/ranma-12?authuser=0" gameurl="https://sites.google.com/site/epicbattlestcg/epic-battles-workshop/ranma-12?authuser=0" iconurl="https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/resources/cardback.jpg" octgnVersion="3.1.240.0" scriptVersion="3.1.0.2" markersize="25" usetwosidedtable="False">
   <scripts>
     <script src="Scripts/actions.py" />
   </scripts>

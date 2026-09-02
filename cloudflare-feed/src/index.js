@@ -1,17 +1,17 @@
 const CATALOG = Object.freeze([
   Object.freeze({
     id: "05ce00ff-544c-5fc1-81ca-387b109116d4",
-    version: "0.2.5",
+    version: "0.2.6",
     title: "Ranma Card Game",
     authors: "Strichnine",
     description:
       "Ranma 1/2 created by Rumiko Takahashi. Based on Epic Battles by Score. Fan set by Strichnine.",
-    projectUrl: "https://github.com/JoePerry/Ranma",
+    projectUrl: "https://sites.google.com/site/epicbattlestcg/epic-battles-workshop/ranma-12?authuser=0",
     iconUrl:
       "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/resources/cardback.jpg",
     tags: "SCORE 1v1 Epic Battles Ranma Fan Made",
     r2Key:
-      "packages/ranma/05ce00ff-544c-5fc1-81ca-387b109116d4.0.2.5.nupkg",
+      "packages/ranma/05ce00ff-544c-5fc1-81ca-387b109116d4.0.2.6.nupkg",
     size: 813021,
     updated: "2026-09-01T12:31:00Z",
   }),

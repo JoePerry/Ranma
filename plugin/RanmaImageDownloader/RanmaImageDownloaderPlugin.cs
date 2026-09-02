@@ -23,7 +23,7 @@ namespace RanmaImageDownloader
         public void OnLoad(GameManager games) { }
         public Guid Id => Guid.Parse("5ef7d342-faf2-4c71-aef1-0bbcb5af9f43");
         public string Name => "Ranma Card Game Image Downloader";
-        public Version Version => Version.Parse("0.2.5.0");
+        public Version Version => Version.Parse("0.2.6.0");
         public Version RequiredByOctgnVersion => Version.Parse("3.1.240.0");
     }
 
@@ -146,7 +146,7 @@ namespace RanmaImageDownloader
         private static HttpClient CreateClient()
         {
             var client = new HttpClient { Timeout = TimeSpan.FromSeconds(45) };
-            client.DefaultRequestHeaders.UserAgent.ParseAdd("OCTGN-Ranma-Image-Downloader/0.2.5");
+            client.DefaultRequestHeaders.UserAgent.ParseAdd("OCTGN-Ranma-Image-Downloader/0.2.6");
             return client;
         }
 

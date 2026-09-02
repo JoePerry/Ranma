@@ -1,7 +1,7 @@
 {
   "guid": "05ce00ff-544c-5fc1-81ca-387b109116d4",
   "name": "Ranma Card Game",
-  "version": "0.2.5.0",
+  "version": "0.2.6.0",
   "versionDate": "2026-09-01T00:00:00Z",
   "description": "Ranma 1/2 fan set based on Epic Battles by Score, with an integrated Cloudflare-hosted image downloader.",
   "authors": [
@@ -14,5 +14,5 @@
     "ranma"
   ],
   "iconUrl": "https://octgn-multi-game-feed.awesome-mole.workers.dev/assets/ranma/resources/cardback.jpg",
-  "changelog": "Move the game package, artwork manifest, card images, and integrated downloader to the shared Cloudflare OCTGN feed."
+  "changelog": "Use the public Ranma workshop page for the game website link."
 }
